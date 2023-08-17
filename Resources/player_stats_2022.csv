@@ -1,0 +1,496 @@
+﻿Year,Team,Player,Rk,G,Date,Age,Tm,Opp,Difference,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+2022,Chicago Bulls,DeMar DeRozan,1,1,10/19/2022,33-073,CHI,MIA,W (+8),1,36:08:00,14,22,0.636,2,3,0.667,7,11,0.636,1,5,6,9,2,1,1,3,37,34.6,13
+2022,Chicago Bulls,DeMar DeRozan,2,2,10/21/2022,33-075,CHI,WAS,L (-2),1,36:47:00,11,23,0.478,0,2,0,10,11,0.909,1,5,6,6,1,0,3,1,32,23.9,1
+2022,Chicago Bulls,DeMar DeRozan,3,3,10/22/2022,33-076,CHI,CLE,L (-32),1,32:31:00,3,9,0.333,0,0,,7,7,1,0,2,2,1,2,0,0,2,13,10.4,-6
+2022,Chicago Bulls,DeMar DeRozan,4,4,10/24/2022,33-078,CHI,BOS,W (+18),1,32:45:00,10,17,0.588,0,0,,5,5,1,0,5,5,5,1,0,3,1,25,19.7,1
+2022,Chicago Bulls,DeMar DeRozan,5,5,10/26/2022,33-080,CHI,IND,W (+15),1,32:17:00,6,14,0.429,0,1,0,5,5,1,0,1,1,6,0,0,3,5,17,9.1,-3
+2022,Chicago Bulls,DeMar DeRozan,6,6,10/28/2022,33-082,CHI,SAS,L (-5),1,35:33:00,11,20,0.55,0,1,0,11,12,0.917,0,1,1,1,1,0,0,1,33,24.6,-15
+2022,Chicago Bulls,DeMar DeRozan,7,7,10/29/2022,33-083,CHI,PHI,L (-5),1,34:15:00,7,12,0.583,1,2,0.5,9,10,0.9,0,3,3,4,0,0,4,2,24,16.9,2
+2022,Chicago Bulls,DeMar DeRozan,8,8,11/1/2022,33-086,CHI,BRK,W (+9),1,32:45:00,8,21,0.381,1,2,0.5,3,3,1,0,4,4,1,3,0,1,2,20,11.6,-1
+2022,Chicago Bulls,DeMar DeRozan,9,9,11/2/2022,33-087,CHI,CHO,W (+18),1,28:17:00,2,11,0.182,0,1,0,5,5,1,2,6,8,5,1,1,5,2,9,4.7,-9
+2022,Chicago Bulls,DeMar DeRozan,10,10,11/4/2022,33-089,CHI,BOS,L (-4),1,35:52:00,13,23,0.565,0,3,0,20,22,0.909,0,3,3,5,2,1,2,3,46,38.2,10
+2022,Chicago Bulls,DeMar DeRozan,11,11,11/6/2022,33-091,CHI,TOR,L (-9),1,37:29:00,7,9,0.778,0,1,0,6,6,1,1,4,5,2,1,1,5,2,20,15.7,-8
+2022,Chicago Bulls,DeMar DeRozan,12,12,11/7/2022,33-092,CHI,TOR,W (+14),1,35:38:00,2,6,0.333,0,1,0,5,6,0.833,0,6,6,7,1,0,2,4,9,9.3,7
+2022,Chicago Bulls,DeMar DeRozan,13,13,11/9/2022,33-094,CHI,NOP,L (-4),1,36:38:00,14,26,0.538,0,2,0,5,6,0.833,0,3,3,3,1,1,3,5,33,19.7,-3
+2022,Chicago Bulls,DeMar DeRozan,14,14,11/13/2022,33-098,CHI,DEN,L (-23),1,25:40:00,6,11,0.545,0,1,0,4,6,0.667,0,2,2,4,0,1,0,3,16,12.8,-26
+2022,Chicago Bulls,DeMar DeRozan,15,15,11/16/2022,33-101,CHI,NOP,L (-14),1,30:53:00,11,15,0.733,0,1,0,6,7,0.857,1,3,4,7,0,0,0,3,28,26.8,-14
+2022,Chicago Bulls,DeMar DeRozan,16,16,11/18/2022,33-103,CHI,ORL,L (-1),1,43:38:00,16,30,0.533,1,2,0.5,8,9,0.889,1,3,4,2,0,0,2,2,41,26.2,13
+2022,Chicago Bulls,DeMar DeRozan,17,17,11/21/2022,33-106,CHI,BOS,W (+14),1,35:03:00,11,24,0.458,3,3,1,3,3,1,0,8,8,4,1,0,2,3,28,18.6,20
+2022,Chicago Bulls,DeMar DeRozan,18,18,11/23/2022,33-108,CHI,MIL,W (+5),1,37:33:00,14,24,0.583,2,3,0.667,6,7,0.857,0,4,4,8,1,2,2,0,36,31.6,15
+2022,Chicago Bulls,DeMar DeRozan,19,19,11/25/2022,33-110,CHI,OKC,L (-4),1,42:16:00,12,27,0.444,0,1,0,6,8,0.75,0,4,4,6,2,0,2,5,30,18.5,6
+2022,Chicago Bulls,DeMar DeRozan,20,20,11/28/2022,33-113,CHI,UTA,W (+7),1,35:40:00,9,20,0.45,0,1,0,8,9,0.889,2,2,4,6,1,0,0,4,26,20.8,2
+2022,Chicago Bulls,DeMar DeRozan,21,21,11/30/2022,33-115,CHI,PHO,L (-19),1,31:47:00,11,17,0.647,0,1,0,7,8,0.875,0,7,7,4,0,1,2,3,29,23.5,-8
+2022,Chicago Bulls,DeMar DeRozan,22,22,12/2/2022,33-117,CHI,GSW,L (-8),1,35:45:00,4,15,0.267,0,0,,8,9,0.889,1,5,6,7,0,0,1,4,16,11.2,-12
+2022,Chicago Bulls,DeMar DeRozan,23,23,12/4/2022,33-119,CHI,SAC,L (-9),1,35:24:00,6,18,0.333,0,0,,6,6,1,1,4,5,4,0,0,2,3,18,9.3,-8
+2022,Chicago Bulls,DeMar DeRozan,24,24,12/7/2022,33-122,CHI,WAS,W (+4),1,37:15:00,11,21,0.524,0,1,0,5,6,0.833,0,7,7,4,0,1,5,3,27,15.7,5
+2022,Chicago Bulls,DeMar DeRozan,25,25,12/10/2022,33-125,CHI,DAL,W (+29),1,31:34:00,9,13,0.692,1,2,0.5,9,9,1,0,9,9,5,0,0,2,1,28,26.3,38
+2022,Chicago Bulls,DeMar DeRozan,26,26,12/11/2022,33-126,CHI,ATL,L (-1),1,45:19:00,10,21,0.476,0,0,,14,15,0.933,1,12,13,8,0,0,1,2,34,31,3
+2022,Chicago Bulls,DeMar DeRozan,27,27,12/14/2022,33-129,CHI,NYK,L (-8),1,39:48:00,8,18,0.444,0,2,0,16,17,0.941,0,5,5,2,0,2,2,3,32,23.3,-9
+2022,Chicago Bulls,DeMar DeRozan,28,28,12/16/2022,33-131,CHI,NYK,L (-23),1,30:46:00,6,14,0.429,0,1,0,2,2,1,0,4,4,4,1,0,4,3,14,6.4,-23
+2022,Chicago Bulls,DeMar DeRozan,29,29,12/18/2022,33-133,CHI,MIN,L (-24),1,38:52:00,10,19,0.526,2,4,0.5,7,9,0.778,1,3,4,6,2,0,1,2,29,24.9,-5
+2022,Chicago Bulls,DeMar DeRozan,30,30,12/20/2022,33-135,CHI,MIA,W (+10),1,39:31:00,9,14,0.643,0,1,0,6,6,1,1,4,5,5,0,0,2,2,24,20.4,11
+2022,Chicago Bulls,DeMar DeRozan,31,31,12/21/2022,33-136,CHI,ATL,W (+2),1,37:50:00,12,23,0.522,0,1,0,4,6,0.667,2,4,6,5,1,0,1,5,28,20,5
+2022,Chicago Bulls,DeMar DeRozan,32,32,12/23/2022,33-138,CHI,NYK,W (+1),1,36:58:00,9,21,0.429,1,3,0.333,6,7,0.857,0,7,7,10,2,1,0,5,25,23.3,2
+2022,Chicago Bulls,DeMar DeRozan,33,33,12/26/2022,33-141,CHI,HOU,L (-15),1,40:57:00,11,18,0.611,0,0,,9,10,0.9,1,4,5,9,1,0,2,3,31,28.4,-17
+2022,Chicago Bulls,DeMar DeRozan,34,34,12/28/2022,33-143,CHI,MIL,W (+6),1,44:25:00,15,25,0.6,0,0,,12,14,0.857,1,9,10,5,2,2,1,0,42,39,2
+2022,Chicago Bulls,DeMar DeRozan,35,35,12/30/2022,33-145,CHI,DET,W (+14),1,34:39:00,9,19,0.474,0,2,0,4,5,0.8,0,6,6,5,1,0,2,4,22,14.6,5
+2022,Chicago Bulls,DeMar DeRozan,36,36,12/31/2022,33-146,CHI,CLE,L (-1),1,38:08:00,7,17,0.412,0,1,0,7,7,1,1,3,4,3,3,1,4,5,21,13.3,1
+2022,Chicago Bulls,DeMar DeRozan,37,37,1/2/2023,33-148,CHI,CLE,L (-11),1,45:55:00,16,32,0.5,2,6,0.333,10,12,0.833,1,2,3,4,4,1,1,4,44,33.4,-9
+2022,Chicago Bulls,DeMar DeRozan,38,38,1/4/2023,33-150,CHI,BRK,W (+9),1,35:21:00,8,20,0.4,0,1,0,6,6,1,0,7,7,3,1,1,1,1,22,15.7,13
+2022,Chicago Bulls,DeMar DeRozan,39,39,1/6/2023,33-152,CHI,PHI,W (+14),1,37:09:00,4,13,0.308,0,2,0,4,5,0.8,0,5,5,6,1,1,2,0,12,9.5,9
+2022,Chicago Bulls,DeMar DeRozan,40,40,1/7/2023,33-153,CHI,UTA,W (+8),1,39:38:00,13,22,0.591,0,0,,9,10,0.9,0,2,2,7,0,0,2,2,35,27.1,16
+2022,Chicago Bulls,DeMar DeRozan,41,41,1/9/2023,33-155,CHI,BOS,L (-8),1,23:06,6,9,0.667,0,0,,1,1,1,0,3,3,3,1,0,2,1,13,10.7,-12
+2022,Chicago Bulls,DeMar DeRozan,42,,1/11/2023,33-157,CHI,WAS,L (-3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,DeMar DeRozan,43,,1/13/2023,33-159,CHI,OKC,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,DeMar DeRozan,44,,1/15/2023,33-161,CHI,GSW,W (+14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,DeMar DeRozan,45,42,1/19/2023,33-165,CHI,DET,W (+18),1,37:43:00,9,18,0.5,0,1,0,8,8,1,0,9,9,5,2,1,5,1,26,20.5,15
+2022,Chicago Bulls,DeMar DeRozan,46,43,1/23/2023,33-169,CHI,ATL,W (+11),1,37:19:00,11,21,0.524,1,2,0.5,3,4,0.75,0,1,1,6,3,0,1,2,26,21,20
+2022,Chicago Bulls,DeMar DeRozan,47,44,1/24/2023,33-170,CHI,IND,L (-6),1,39:36:00,14,21,0.667,0,0,,5,5,1,1,4,5,3,0,1,1,5,33,25.6,-9
+2022,Chicago Bulls,DeMar DeRozan,48,45,1/26/2023,33-172,CHI,CHO,L (-15),1,35:17:00,9,21,0.429,0,1,0,10,11,0.909,1,2,3,5,1,0,2,4,28,18.7,-5
+2022,Chicago Bulls,DeMar DeRozan,49,46,1/28/2023,33-174,CHI,ORL,W (+19),1,38:18:00,11,14,0.786,5,5,1,5,6,0.833,0,2,2,8,0,1,3,4,32,28.5,17
+2022,Chicago Bulls,DeMar DeRozan,50,47,1/31/2023,33-177,CHI,LAC,L (-5),1,35:51:00,8,19,0.421,0,2,0,4,6,0.667,0,2,2,5,1,1,8,3,20,5.7,2
+2022,Chicago Bulls,DeMar DeRozan,51,48,2/2/2023,33-179,CHI,CHO,W (+16),1,38:13:00,4,12,0.333,2,5,0.4,5,6,0.833,0,4,4,7,1,2,4,3,15,11.1,7
+2022,Chicago Bulls,DeMar DeRozan,52,49,2/4/2023,33-181,CHI,POR,W (+8),1,39:51:00,10,16,0.625,1,1,1,6,6,1,0,7,7,7,1,1,3,2,27,24.7,-4
+2022,Chicago Bulls,DeMar DeRozan,53,50,2/6/2023,33-183,CHI,SAS,W (+24),1,33:45:00,8,17,0.471,0,1,0,3,3,1,0,1,1,5,1,0,2,1,19,12.7,32
+2022,Chicago Bulls,DeMar DeRozan,54,,2/7/2023,33-184,CHI,MEM,L (-15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,DeMar DeRozan,55,51,2/9/2023,33-186,CHI,BRK,L (-11),1,35:59:00,5,13,0.385,0,1,0,4,7,0.571,1,2,3,6,0,1,3,2,14,8.1,-23
+2022,Chicago Bulls,DeMar DeRozan,56,52,2/11/2023,33-188,CHI,CLE,L (-8),1,39:55:00,6,10,0.6,2,5,0.4,2,3,0.667,0,1,1,6,0,0,4,3,16,10.3,-6
+2022,Chicago Bulls,DeMar DeRozan,57,53,2/13/2023,33-190,CHI,ORL,L (-9),1,35:42:00,8,20,0.4,0,2,0,3,3,1,0,3,3,6,0,1,3,5,19,9,-10
+2022,Chicago Bulls,DeMar DeRozan,58,,2/15/2023,33-192,CHI,IND,L (-4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,DeMar DeRozan,59,,2/16/2023,33-193,CHI,MIL,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,DeMar DeRozan,60,54,2/24/2023,33-201,CHI,BRK,W (+44),1,27:39:00,8,17,0.471,0,3,0,1,1,1,0,4,4,4,1,1,1,2,17,12.2,35
+2022,Chicago Bulls,DeMar DeRozan,61,55,2/26/2023,33-203,CHI,WAS,W (+20),1,35:19:00,11,15,0.733,0,0,,7,8,0.875,0,2,2,6,2,0,1,1,29,27.9,29
+2022,Chicago Bulls,DeMar DeRozan,62,56,2/28/2023,33-205,CHI,TOR,L (-6),1,34:41:00,5,11,0.455,0,0,,3,5,0.6,0,0,0,2,1,1,3,5,13,4.6,-15
+2022,Chicago Bulls,DeMar DeRozan,63,57,3/1/2023,33-206,CHI,DET,W (+2),1,36:40:00,7,16,0.438,0,0,,7,9,0.778,3,4,7,7,0,0,2,1,21,17.6,10
+2022,Chicago Bulls,DeMar DeRozan,64,58,3/3/2023,33-208,CHI,PHO,L (-21),1,35:41:00,13,18,0.722,1,1,1,4,7,0.571,0,0,0,6,2,0,0,3,31,27.4,-22
+2022,Chicago Bulls,DeMar DeRozan,65,59,3/5/2023,33-210,CHI,IND,L (-3),1,37:50:00,9,16,0.563,1,4,0.25,4,4,1,1,4,5,3,0,0,3,3,23,15.2,-9
+2022,Chicago Bulls,DeMar DeRozan,66,60,3/8/2023,33-213,CHI,DEN,W (+21),1,38:11:00,6,16,0.375,0,2,0,5,6,0.833,1,5,6,8,3,0,2,3,17,15.4,14
+2022,Chicago Bulls,DeMar DeRozan,67,61,3/11/2023,33-216,CHI,HOU,W (+8),1,38:58:00,9,21,0.429,2,3,0.667,7,10,0.7,1,6,7,5,1,2,4,1,27,18.7,10
+2022,Chicago Bulls,DeMar DeRozan,68,62,3/15/2023,33-220,CHI,SAC,L (-3),1,39:38:00,10,20,0.5,4,6,0.667,9,11,0.818,0,3,3,3,2,0,2,2,33,24.4,-11
+2022,Chicago Bulls,DeMar DeRozan,69,63,3/17/2023,33-222,CHI,MIN,W (+8),1,51:56:00,15,25,0.6,2,4,0.5,17,18,0.944,2,12,14,4,3,0,1,3,49,45.7,11
+2022,Chicago Bulls,DeMar DeRozan,70,64,3/18/2023,33-223,CHI,MIA,W (+14),1,41:14:00,10,15,0.667,2,4,0.5,2,2,1,0,5,5,10,3,0,0,2,24,28.2,14
+2022,Chicago Bulls,DeMar DeRozan,71,65,3/20/2023,33-225,CHI,PHI,W (+4),1,46:22:00,10,22,0.455,0,3,0,5,6,0.833,0,8,8,2,3,1,2,2,25,17.9,4
+2022,Chicago Bulls,DeMar DeRozan,72,66,3/22/2023,33-227,CHI,PHI,L (-25),1,20:32,0,7,0,0,3,0,4,4,1,1,2,3,1,1,0,1,2,4,0.3,-30
+2022,Chicago Bulls,DeMar DeRozan,73,,3/24/2023,33-229,CHI,POR,W (+28),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,DeMar DeRozan,74,67,3/26/2023,33-231,CHI,LAL,W (+10),1,36:28:00,7,13,0.538,2,2,1,1,2,0.5,0,6,6,10,0,1,2,1,17,17.4,6
+2022,Chicago Bulls,DeMar DeRozan,75,68,3/27/2023,33-232,CHI,LAC,L (-12),1,33:09:00,8,16,0.5,2,5,0.4,3,3,1,0,5,5,7,2,0,2,0,21,19.4,-9
+2022,Chicago Bulls,DeMar DeRozan,76,69,3/29/2023,33-234,CHI,LAL,L (-11),1,38:31:00,9,15,0.6,0,2,0,4,6,0.667,0,4,4,5,2,2,3,1,22,19,-20
+2022,Chicago Bulls,DeMar DeRozan,77,70,3/31/2023,33-236,CHI,CHO,W (+30),1,32:52:00,8,15,0.533,1,2,0.5,6,7,0.857,1,2,3,4,1,0,1,0,23,19.4,24
+2022,Chicago Bulls,DeMar DeRozan,78,71,4/2/2023,33-238,CHI,MEM,W (+21),1,33:54:00,11,26,0.423,0,4,0,9,9,1,1,4,5,7,1,0,0,3,31,23.8,17
+2022,Chicago Bulls,DeMar DeRozan,79,72,4/4/2023,33-240,CHI,ATL,L (-18),1,36:41:00,7,17,0.412,1,4,0.25,6,6,1,0,4,4,2,1,0,1,2,21,13.7,-14
+2022,Chicago Bulls,DeMar DeRozan,80,73,4/5/2023,33-241,CHI,MIL,L (-13),1,36:21:00,3,12,0.25,0,1,0,2,2,1,0,3,3,6,2,0,3,4,8,3.3,-21
+2022,Chicago Bulls,DeMar DeRozan,81,,4/7/2023,33-243,CHI,DAL,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,DeMar DeRozan,82,74,4/9/2023,33-245,CHI,DET,W (+22),1,23:45,7,15,0.467,1,4,0.25,1,1,1,0,2,2,5,1,0,0,1,16,13,-4
+2022,Chicago Bulls,Nikola Vucevic,1,1,10/19/2022,31-360,CHI,MIA,W (+8),1,33:07:00,5,13,0.385,1,5,0.2,4,4,1,5,12,17,2,0,3,1,1,15,17.1,16
+2022,Chicago Bulls,Nikola Vucevic,2,2,10/21/2022,31-362,CHI,WAS,L (-2),1,29:59:00,5,14,0.357,2,7,0.286,12,12,1,2,6,8,1,0,0,1,0,24,19.1,-10
+2022,Chicago Bulls,Nikola Vucevic,3,3,10/22/2022,31-363,CHI,CLE,L (-32),1,30:47:00,7,12,0.583,2,3,0.667,0,0,,1,3,4,3,0,3,2,3,16,13,-10
+2022,Chicago Bulls,Nikola Vucevic,4,4,10/24/2022,32-000,CHI,BOS,W (+18),1,30:37:00,7,19,0.368,0,3,0,4,5,0.8,10,13,23,5,0,0,2,3,18,18.3,1
+2022,Chicago Bulls,Nikola Vucevic,5,5,10/26/2022,32-002,CHI,IND,W (+15),1,31:15:00,5,10,0.5,1,3,0.333,3,3,1,1,6,7,4,0,0,2,4,14,10.7,-1
+2022,Chicago Bulls,Nikola Vucevic,6,6,10/28/2022,32-004,CHI,SAS,L (-5),1,24:31:00,4,13,0.308,1,5,0.2,0,0,,3,2,5,2,0,1,2,3,9,3.1,-15
+2022,Chicago Bulls,Nikola Vucevic,7,7,10/29/2022,32-005,CHI,PHI,L (-5),1,36:22:00,8,14,0.571,5,7,0.714,2,2,1,3,16,19,3,1,0,4,4,23,20.8,-2
+2022,Chicago Bulls,Nikola Vucevic,8,8,11/1/2022,32-008,CHI,BRK,W (+9),1,31:56:00,3,8,0.375,0,1,0,1,2,0.5,3,12,15,2,1,0,1,2,7,8.5,5
+2022,Chicago Bulls,Nikola Vucevic,9,9,11/2/2022,32-009,CHI,CHO,W (+18),1,31:34:00,5,16,0.313,2,6,0.333,2,2,1,2,11,13,3,0,1,4,2,14,7.5,-4
+2022,Chicago Bulls,Nikola Vucevic,10,10,11/4/2022,32-011,CHI,BOS,L (-4),1,35:14:00,10,14,0.714,4,5,0.8,0,0,,3,9,12,3,1,0,1,4,24,23.5,10
+2022,Chicago Bulls,Nikola Vucevic,11,11,11/6/2022,32-013,CHI,TOR,L (-9),1,35:28:00,8,13,0.615,2,5,0.4,0,0,,4,8,12,6,0,1,4,2,18,17.4,-10
+2022,Chicago Bulls,Nikola Vucevic,12,12,11/7/2022,32-014,CHI,TOR,W (+14),1,34:43:00,7,14,0.5,1,4,0.25,0,0,,0,13,13,4,0,2,5,3,15,9.9,7
+2022,Chicago Bulls,Nikola Vucevic,13,13,11/9/2022,32-016,CHI,NOP,L (-4),1,27:24:00,6,9,0.667,2,4,0.5,4,5,0.8,0,7,7,2,0,0,2,2,18,14.4,-13
+2022,Chicago Bulls,Nikola Vucevic,14,14,11/13/2022,32-020,CHI,DEN,L (-23),1,23:04,4,10,0.4,1,3,0.333,0,0,,0,6,6,0,0,0,3,1,9,2,-16
+2022,Chicago Bulls,Nikola Vucevic,15,15,11/16/2022,32-023,CHI,NOP,L (-14),1,29:46:00,6,13,0.462,2,5,0.4,0,0,,2,8,10,0,1,0,2,1,14,9.7,-10
+2022,Chicago Bulls,Nikola Vucevic,16,16,11/18/2022,32-025,CHI,ORL,L (-1),1,33:24:00,5,13,0.385,0,2,0,4,6,0.667,3,13,16,7,1,3,1,3,14,17.9,9
+2022,Chicago Bulls,Nikola Vucevic,17,17,11/21/2022,32-028,CHI,BOS,W (+14),1,35:03:00,6,7,0.857,0,1,0,0,1,0,1,12,13,6,0,0,0,0,12,17.6,20
+2022,Chicago Bulls,Nikola Vucevic,18,18,11/23/2022,32-030,CHI,MIL,W (+5),1,29:48:00,7,14,0.5,4,10,0.4,0,0,,1,4,5,4,0,1,2,1,18,14,13
+2022,Chicago Bulls,Nikola Vucevic,19,19,11/25/2022,32-032,CHI,OKC,L (-4),1,39:59:00,6,14,0.429,1,7,0.143,0,0,,3,10,13,3,0,0,2,1,13,10.4,5
+2022,Chicago Bulls,Nikola Vucevic,20,20,11/28/2022,32-035,CHI,UTA,W (+7),1,33:34:00,8,17,0.471,0,4,0,0,0,,3,6,9,2,1,0,1,1,16,12.2,3
+2022,Chicago Bulls,Nikola Vucevic,21,21,11/30/2022,32-037,CHI,PHO,L (-19),1,29:22:00,5,9,0.556,1,3,0.333,6,7,0.857,1,7,8,1,2,1,2,5,17,14.5,-10
+2022,Chicago Bulls,Nikola Vucevic,22,22,12/2/2022,32-039,CHI,GSW,L (-8),1,32:11:00,9,17,0.529,2,7,0.286,3,4,0.75,0,11,11,1,3,0,1,1,23,19.9,-8
+2022,Chicago Bulls,Nikola Vucevic,23,23,12/4/2022,32-041,CHI,SAC,L (-9),1,37:04:00,4,10,0.4,2,4,0.5,2,2,1,0,6,6,1,0,1,2,0,12,7.8,-5
+2022,Chicago Bulls,Nikola Vucevic,24,24,12/7/2022,32-044,CHI,WAS,W (+4),1,35:35:00,10,16,0.625,3,5,0.6,2,3,0.667,2,9,11,3,2,2,1,1,25,25.6,13
+2022,Chicago Bulls,Nikola Vucevic,25,25,12/10/2022,32-047,CHI,DAL,W (+29),1,26:06:00,8,11,0.727,2,3,0.667,2,2,1,2,6,8,4,1,1,0,3,20,22,10
+2022,Chicago Bulls,Nikola Vucevic,26,26,12/11/2022,32-048,CHI,ATL,L (-1),1,36:37:00,6,11,0.545,1,2,0.5,0,0,,2,6,8,1,2,0,0,0,13,13.6,-3
+2022,Chicago Bulls,Nikola Vucevic,27,27,12/14/2022,32-051,CHI,NYK,L (-8),1,41:07:00,9,16,0.563,1,5,0.2,0,0,,0,7,7,5,0,2,1,1,19,17,-3
+2022,Chicago Bulls,Nikola Vucevic,28,28,12/16/2022,32-053,CHI,NYK,L (-23),1,29:19:00,4,8,0.5,1,3,0.333,0,0,,1,7,8,4,0,0,2,2,9,7.8,-23
+2022,Chicago Bulls,Nikola Vucevic,29,29,12/18/2022,32-055,CHI,MIN,L (-24),1,32:14:00,10,15,0.667,3,6,0.5,0,0,,1,8,9,5,2,1,4,3,23,20.6,-18
+2022,Chicago Bulls,Nikola Vucevic,30,30,12/20/2022,32-057,CHI,MIA,W (+10),1,37:17:00,13,17,0.765,3,5,0.6,0,0,,2,10,12,2,1,0,3,2,29,25.3,4
+2022,Chicago Bulls,Nikola Vucevic,31,31,12/21/2022,32-058,CHI,ATL,W (+2),1,33:08:00,8,17,0.471,2,7,0.286,2,2,1,2,5,7,2,1,1,0,1,20,16.9,-13
+2022,Chicago Bulls,Nikola Vucevic,32,32,12/23/2022,32-060,CHI,NYK,W (+1),1,39:03:00,8,16,0.5,3,7,0.429,2,2,1,3,9,12,2,1,0,1,3,21,18,9
+2022,Chicago Bulls,Nikola Vucevic,33,33,12/26/2022,32-063,CHI,HOU,L (-15),1,29:50:00,4,13,0.308,1,5,0.2,1,2,0.5,0,3,3,4,0,0,2,3,10,2.6,-13
+2022,Chicago Bulls,Nikola Vucevic,34,34,12/28/2022,32-065,CHI,MIL,W (+6),1,36:30:00,5,12,0.417,3,5,0.6,2,2,1,2,12,14,5,0,3,4,5,15,13.2,-4
+2022,Chicago Bulls,Nikola Vucevic,35,35,12/30/2022,32-067,CHI,DET,W (+14),1,32:49:00,9,16,0.563,1,3,0.333,0,0,,3,6,9,2,1,3,1,1,19,18.4,16
+2022,Chicago Bulls,Nikola Vucevic,36,36,12/31/2022,32-068,CHI,CLE,L (-1),1,34:30:00,5,13,0.385,0,4,0,1,2,0.5,3,11,14,1,2,1,0,2,11,11.5,7
+2022,Chicago Bulls,Nikola Vucevic,37,37,1/2/2023,32-070,CHI,CLE,L (-11),1,43:31:00,6,8,0.75,2,4,0.5,6,7,0.857,1,12,13,2,0,0,1,3,20,19.9,-19
+2022,Chicago Bulls,Nikola Vucevic,38,38,1/4/2023,32-072,CHI,BRK,W (+9),1,35:52:00,8,12,0.667,1,3,0.333,4,4,1,2,11,13,3,0,2,3,2,21,20.2,6
+2022,Chicago Bulls,Nikola Vucevic,39,39,1/6/2023,32-074,CHI,PHI,W (+14),1,36:29:00,8,14,0.571,2,3,0.667,1,1,1,2,16,18,10,0,2,1,1,19,25.6,16
+2022,Chicago Bulls,Nikola Vucevic,40,40,1/7/2023,32-075,CHI,UTA,W (+8),1,33:30:00,5,8,0.625,2,3,0.667,3,4,0.75,2,14,16,4,0,2,1,4,15,18.2,1
+2022,Chicago Bulls,Nikola Vucevic,41,41,1/9/2023,32-077,CHI,BOS,L (-8),1,33:38:00,9,15,0.6,3,6,0.5,0,2,0,1,12,13,1,0,0,0,1,21,17.9,-18
+2022,Chicago Bulls,Nikola Vucevic,42,42,1/11/2023,32-079,CHI,WAS,L (-3),1,38:47:00,7,14,0.5,1,4,0.25,0,0,,3,7,10,5,0,2,2,2,15,14.3,-2
+2022,Chicago Bulls,Nikola Vucevic,43,43,1/13/2023,32-081,CHI,OKC,L (-14),1,39:01:00,9,14,0.643,1,4,0.25,0,0,,3,8,11,4,1,0,4,2,19,16.3,-13
+2022,Chicago Bulls,Nikola Vucevic,44,44,1/15/2023,32-083,CHI,GSW,W (+14),1,39:01:00,18,31,0.581,5,10,0.5,2,2,1,4,9,13,4,4,0,1,1,43,39.4,12
+2022,Chicago Bulls,Nikola Vucevic,45,45,1/19/2023,32-087,CHI,DET,W (+18),1,35:12:00,8,19,0.421,0,5,0,0,0,,4,11,15,6,1,0,2,4,16,13.6,16
+2022,Chicago Bulls,Nikola Vucevic,46,46,1/23/2023,32-091,CHI,ATL,W (+11),1,38:47:00,6,14,0.429,1,5,0.2,1,2,0.5,6,11,17,7,1,0,1,1,14,18.2,19
+2022,Chicago Bulls,Nikola Vucevic,47,47,1/24/2023,32-092,CHI,IND,L (-6),1,32:43:00,9,14,0.643,2,2,1,0,0,,0,8,8,5,0,2,3,2,20,17.3,2
+2022,Chicago Bulls,Nikola Vucevic,48,48,1/26/2023,32-094,CHI,CHO,L (-15),1,35:25:00,5,16,0.313,0,6,0,2,2,1,0,9,9,1,1,0,2,4,12,3.6,-23
+2022,Chicago Bulls,Nikola Vucevic,49,49,1/28/2023,32-096,CHI,ORL,W (+19),1,39:11:00,11,18,0.611,2,5,0.4,2,2,1,4,9,13,5,0,2,3,4,26,23.6,23
+2022,Chicago Bulls,Nikola Vucevic,50,50,1/31/2023,32-099,CHI,LAC,L (-5),1,38:40:00,10,15,0.667,3,6,0.5,0,0,,0,14,14,4,2,0,0,3,23,24.3,10
+2022,Chicago Bulls,Nikola Vucevic,51,51,2/2/2023,32-101,CHI,CHO,W (+16),1,33:16:00,7,14,0.5,1,5,0.2,2,2,1,0,12,12,6,1,0,0,2,17,18,4
+2022,Chicago Bulls,Nikola Vucevic,52,52,2/4/2023,32-103,CHI,POR,W (+8),1,34:34:00,10,17,0.588,0,4,0,3,4,0.75,3,8,11,4,0,0,1,3,23,19.8,-1
+2022,Chicago Bulls,Nikola Vucevic,53,53,2/6/2023,32-105,CHI,SAS,W (+24),1,23:35,10,18,0.556,2,6,0.333,0,0,,1,11,12,4,1,2,3,2,22,18.8,-3
+2022,Chicago Bulls,Nikola Vucevic,54,54,2/7/2023,32-106,CHI,MEM,L (-15),1,37:15:00,12,26,0.462,3,7,0.429,1,2,0.5,4,13,17,6,3,0,1,1,28,26.7,-9
+2022,Chicago Bulls,Nikola Vucevic,55,55,2/9/2023,32-108,CHI,BRK,L (-11),1,37:13:00,7,15,0.467,1,6,0.167,0,0,,2,15,17,1,0,0,0,4,15,12.3,-3
+2022,Chicago Bulls,Nikola Vucevic,56,56,2/11/2023,32-110,CHI,CLE,L (-8),1,36:26:00,7,13,0.538,0,4,0,0,0,,0,14,14,4,0,1,0,2,14,14.6,-3
+2022,Chicago Bulls,Nikola Vucevic,57,57,2/13/2023,32-112,CHI,ORL,L (-9),1,34:12:00,5,11,0.455,1,2,0.5,2,2,1,2,11,13,1,2,0,1,4,13,12.1,-13
+2022,Chicago Bulls,Nikola Vucevic,58,58,2/15/2023,32-114,CHI,IND,L (-4),1,36:31:00,8,18,0.444,3,5,0.6,0,2,0,1,6,7,3,0,2,4,3,19,9.6,-8
+2022,Chicago Bulls,Nikola Vucevic,59,59,2/16/2023,32-115,CHI,MIL,L (-12),1,31:21:00,8,20,0.4,2,6,0.333,4,4,1,4,12,16,3,0,0,2,4,22,16.1,-23
+2022,Chicago Bulls,Nikola Vucevic,60,60,2/24/2023,32-123,CHI,BRK,W (+44),1,28:30:00,5,9,0.556,0,0,,3,4,0.75,1,9,10,2,0,2,0,1,13,14.1,35
+2022,Chicago Bulls,Nikola Vucevic,61,61,2/26/2023,32-125,CHI,WAS,W (+20),1,32:22:00,7,16,0.438,0,6,0,2,2,1,2,11,13,1,0,0,0,2,16,12.2,0
+2022,Chicago Bulls,Nikola Vucevic,62,62,2/28/2023,32-127,CHI,TOR,L (-6),1,31:29:00,9,14,0.643,4,6,0.667,1,1,1,1,4,5,4,0,0,6,2,23,14.7,1
+2022,Chicago Bulls,Nikola Vucevic,63,63,3/1/2023,32-128,CHI,DET,W (+2),1,35:28:00,5,15,0.333,0,5,0,2,4,0.5,1,8,9,2,1,0,1,1,12,6.8,11
+2022,Chicago Bulls,Nikola Vucevic,64,64,3/3/2023,32-130,CHI,PHO,L (-21),1,31:01:00,6,15,0.4,1,3,0.333,0,0,,2,7,9,2,1,0,2,3,13,7.6,-14
+2022,Chicago Bulls,Nikola Vucevic,65,65,3/5/2023,32-132,CHI,IND,L (-3),1,35:40:00,6,10,0.6,0,2,0,0,0,,0,9,9,5,3,2,1,3,12,15.8,0
+2022,Chicago Bulls,Nikola Vucevic,66,66,3/8/2023,32-135,CHI,DEN,W (+21),1,34:41:00,9,17,0.529,2,4,0.5,5,5,1,2,13,15,3,0,0,1,3,25,21.9,17
+2022,Chicago Bulls,Nikola Vucevic,67,67,3/11/2023,32-138,CHI,HOU,W (+8),1,33:14:00,7,15,0.467,4,7,0.571,0,0,,2,10,12,6,1,0,2,1,18,17.5,8
+2022,Chicago Bulls,Nikola Vucevic,68,68,3/15/2023,32-142,CHI,SAC,L (-3),1,35:08:00,8,22,0.364,0,7,0,4,5,0.8,6,8,14,3,0,0,2,4,20,12.5,-8
+2022,Chicago Bulls,Nikola Vucevic,69,69,3/17/2023,32-144,CHI,MIN,W (+8),1,45:53:00,9,20,0.45,2,3,0.667,1,1,1,2,9,11,4,2,3,4,5,21,15.6,17
+2022,Chicago Bulls,Nikola Vucevic,70,70,3/18/2023,32-145,CHI,MIA,W (+14),1,39:09:00,6,8,0.75,0,0,,1,1,1,1,9,10,2,0,1,1,3,13,13.1,9
+2022,Chicago Bulls,Nikola Vucevic,71,71,3/20/2023,32-147,CHI,PHI,W (+4),1,46:16:00,8,12,0.667,1,2,0.5,4,4,1,1,11,12,2,4,0,1,2,21,23.4,5
+2022,Chicago Bulls,Nikola Vucevic,72,72,3/22/2023,32-149,CHI,PHI,L (-25),1,24:59:00,4,10,0.4,0,2,0,0,0,,2,3,5,2,1,0,1,0,8,6.3,-31
+2022,Chicago Bulls,Nikola Vucevic,73,73,3/24/2023,32-151,CHI,POR,W (+28),1,30:23:00,10,13,0.769,1,1,1,2,2,1,2,13,15,4,1,0,5,3,23,20.8,34
+2022,Chicago Bulls,Nikola Vucevic,74,74,3/26/2023,32-153,CHI,LAL,W (+10),1,15:17,2,5,0.4,0,1,0,0,0,,0,2,2,1,1,0,0,1,4,3.2,-5
+2022,Chicago Bulls,Nikola Vucevic,75,75,3/27/2023,32-154,CHI,LAC,L (-12),1,30:23:00,9,13,0.692,2,3,0.667,0,0,,1,7,8,5,0,0,3,3,20,16.6,-17
+2022,Chicago Bulls,Nikola Vucevic,76,76,3/29/2023,32-156,CHI,LAL,L (-11),1,36:27:00,12,16,0.75,3,4,0.75,2,2,1,3,9,12,6,0,0,2,4,29,28,-22
+2022,Chicago Bulls,Nikola Vucevic,77,77,3/31/2023,32-158,CHI,CHO,W (+30),1,30:06:00,9,14,0.643,0,3,0,3,4,0.75,2,6,8,0,0,0,0,0,21,17.6,25
+2022,Chicago Bulls,Nikola Vucevic,78,78,4/2/2023,32-160,CHI,MEM,W (+21),1,32:07:00,6,10,0.6,1,2,0.5,0,1,0,0,10,10,2,1,1,0,0,13,14.1,15
+2022,Chicago Bulls,Nikola Vucevic,79,79,4/4/2023,32-162,CHI,ATL,L (-18),1,34:04:00,8,15,0.533,0,2,0,3,3,1,2,8,10,3,0,0,1,1,19,16.2,-19
+2022,Chicago Bulls,Nikola Vucevic,80,80,4/5/2023,32-163,CHI,MIL,L (-13),1,33:56:00,9,21,0.429,1,6,0.167,2,2,1,2,9,11,4,0,0,3,2,21,13,-11
+2022,Chicago Bulls,Nikola Vucevic,81,81,4/7/2023,32-165,CHI,DAL,W (+3),1,27:44:00,7,11,0.636,1,3,0.333,5,5,1,1,9,10,4,0,0,1,1,20,19.9,-5
+2022,Chicago Bulls,Nikola Vucevic,82,82,4/9/2023,32-167,CHI,DET,W (+22),1,17:27,4,9,0.444,0,0,,0,0,,0,7,7,0,3,0,0,1,8,8,9
+2022,Chicago Bulls,Alex Caruso,1,1,10/19/2022,28-233,CHI,MIA,W (+8),1,29:39:00,2,10,0.2,1,6,0.167,1,2,0.5,2,3,5,4,2,0,4,4,6,0.9,9
+2022,Chicago Bulls,Alex Caruso,2,2,10/21/2022,28-235,CHI,WAS,L (-2),1,30:45:00,1,4,0.25,0,2,0,1,2,0.5,0,3,3,1,3,1,4,1,3,1.1,-8
+2022,Chicago Bulls,Alex Caruso,3,3,10/22/2022,28-236,CHI,CLE,L (-32),0,16:36,0,1,0,0,1,0,2,2,1,0,2,2,2,1,1,1,1,2,3.6,-15
+2022,Chicago Bulls,Alex Caruso,4,4,10/24/2022,28-238,CHI,BOS,W (+18),0,18:21,2,2,1,1,1,1,2,2,1,0,3,3,4,0,2,2,2,7,8.7,29
+2022,Chicago Bulls,Alex Caruso,5,5,10/26/2022,28-240,CHI,IND,W (+15),0,23:16,3,4,0.75,2,3,0.667,0,0,,0,2,2,3,3,2,1,3,8,11.3,18
+2022,Chicago Bulls,Alex Caruso,6,6,10/28/2022,28-242,CHI,SAS,L (-5),1,23:32,1,5,0.2,1,3,0.333,0,0,,3,0,3,4,1,0,1,1,3,4.4,-11
+2022,Chicago Bulls,Alex Caruso,7,7,10/29/2022,28-243,CHI,PHI,L (-5),1,35:10:00,2,5,0.4,1,2,0.5,4,4,1,0,3,3,6,3,1,1,1,9,13.7,7
+2022,Chicago Bulls,Alex Caruso,8,8,11/1/2022,28-246,CHI,BRK,W (+9),0,25:01:00,1,4,0.25,1,2,0.5,1,2,0.5,0,4,4,4,0,0,0,1,4,4.8,11
+2022,Chicago Bulls,Alex Caruso,9,9,11/2/2022,28-247,CHI,CHO,W (+18),0,24:11:00,2,3,0.667,1,2,0.5,1,2,0.5,0,0,0,3,1,1,1,3,6,5.9,12
+2022,Chicago Bulls,Alex Caruso,10,10,11/4/2022,28-249,CHI,BOS,L (-4),0,22:39,2,3,0.667,1,2,0.5,0,0,,0,1,1,3,0,1,3,3,5,2.6,-14
+2022,Chicago Bulls,Alex Caruso,11,11,11/6/2022,28-251,CHI,TOR,L (-9),1,32:14:00,1,11,0.091,0,6,0,2,2,1,3,8,11,11,2,2,2,2,4,9.5,15
+2022,Chicago Bulls,Alex Caruso,12,12,11/7/2022,28-252,CHI,TOR,W (+14),0,28:01:00,1,2,0.5,1,1,1,1,2,0.5,0,6,6,5,2,2,3,1,4,7.9,16
+2022,Chicago Bulls,Alex Caruso,13,13,11/9/2022,28-254,CHI,NOP,L (-4),0,22:50,0,1,0,0,1,0,0,0,,0,3,3,1,1,0,0,4,0,0.3,1
+2022,Chicago Bulls,Alex Caruso,14,14,11/13/2022,28-258,CHI,DEN,L (-23),0,21:14,0,1,0,0,1,0,0,0,,0,0,0,2,3,1,3,1,0,1,-2
+2022,Chicago Bulls,Alex Caruso,15,15,11/16/2022,28-261,CHI,NOP,L (-14),0,27:16:00,5,7,0.714,3,4,0.75,0,0,,0,2,2,2,0,0,0,2,13,11.3,-4
+2022,Chicago Bulls,Alex Caruso,16,16,11/18/2022,28-263,CHI,ORL,L (-1),0,22:52,3,5,0.6,1,2,0.5,0,0,,1,0,1,5,0,0,1,5,7,5.9,-8
+2022,Chicago Bulls,Alex Caruso,17,17,11/21/2022,28-266,CHI,BOS,W (+14),0,28:34:00,4,7,0.571,2,4,0.5,0,0,,0,1,1,4,4,0,0,3,10,12.6,6
+2022,Chicago Bulls,Alex Caruso,18,18,11/23/2022,28-268,CHI,MIL,W (+5),0,27:18:00,0,2,0,0,2,0,0,0,,0,1,1,3,2,0,1,3,0,0.8,14
+2022,Chicago Bulls,Alex Caruso,19,19,11/25/2022,28-270,CHI,OKC,L (-4),0,28:11:00,4,5,0.8,2,2,1,2,2,1,0,2,2,4,1,1,1,3,12,13,1
+2022,Chicago Bulls,Alex Caruso,20,20,11/28/2022,28-273,CHI,UTA,W (+7),0,26:44:00,1,2,0.5,0,1,0,3,4,0.75,0,6,6,2,0,1,1,0,5,6.5,11
+2022,Chicago Bulls,Alex Caruso,21,21,11/30/2022,28-275,CHI,PHO,L (-19),0,21:13,4,7,0.571,2,4,0.5,4,5,0.8,0,1,1,2,0,0,0,5,14,10,-12
+2022,Chicago Bulls,Alex Caruso,22,22,12/2/2022,28-277,CHI,GSW,L (-8),1,27:51:00,1,4,0.25,0,3,0,0,0,,0,0,0,6,1,0,1,3,2,2.6,-17
+2022,Chicago Bulls,Alex Caruso,23,23,12/4/2022,28-279,CHI,SAC,L (-9),1,29:42:00,0,4,0,0,1,0,0,0,,0,3,3,4,3,2,1,1,0,3.9,-4
+2022,Chicago Bulls,Alex Caruso,24,24,12/7/2022,28-282,CHI,WAS,W (+4),1,32:10:00,2,4,0.5,0,1,0,1,1,1,0,4,4,9,4,0,1,3,5,12.3,17
+2022,Chicago Bulls,Alex Caruso,25,25,12/10/2022,28-285,CHI,DAL,W (+29),1,6:13,0,0,,0,0,,1,2,0.5,0,1,1,1,1,0,0,0,1,2.6,16
+2022,Chicago Bulls,Alex Caruso,26,,12/11/2022,28-286,CHI,ATL,L (-1),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,27,26,12/14/2022,28-289,CHI,NYK,L (-8),1,32:24:00,2,2,1,0,0,,0,0,,0,2,2,5,3,0,2,5,4,6.5,-15
+2022,Chicago Bulls,Alex Caruso,28,27,12/16/2022,28-291,CHI,NYK,L (-23),1,25:08:00,3,7,0.429,2,5,0.4,1,2,0.5,0,3,3,4,1,1,2,3,9,7.1,-23
+2022,Chicago Bulls,Alex Caruso,29,28,12/18/2022,28-293,CHI,MIN,L (-24),1,25:56:00,2,5,0.4,1,3,0.333,0,0,,2,1,3,2,1,0,2,1,5,4,-13
+2022,Chicago Bulls,Alex Caruso,30,29,12/20/2022,28-295,CHI,MIA,W (+10),1,22:37,2,2,1,1,1,1,2,2,1,1,5,6,3,3,0,2,3,7,10.5,7
+2022,Chicago Bulls,Alex Caruso,31,30,12/21/2022,28-296,CHI,ATL,W (+2),1,10:54,2,2,1,1,1,1,0,0,,0,2,2,0,2,1,0,1,5,7.3,19
+2022,Chicago Bulls,Alex Caruso,32,,12/23/2022,28-298,CHI,NYK,W (+1),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,33,,12/26/2022,28-301,CHI,HOU,L (-15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,34,,12/28/2022,28-303,CHI,MIL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,35,31,12/30/2022,28-305,CHI,DET,W (+14),0,20:21,3,4,0.75,2,2,1,0,0,,1,1,2,2,2,1,2,3,8,8.3,7
+2022,Chicago Bulls,Alex Caruso,36,32,12/31/2022,28-306,CHI,CLE,L (-1),0,25:10:00,1,3,0.333,1,1,1,1,2,0.5,1,3,4,3,2,1,1,2,4,6.5,11
+2022,Chicago Bulls,Alex Caruso,37,33,1/2/2023,28-308,CHI,CLE,L (-11),0,22:20,2,7,0.286,0,1,0,0,0,,1,1,2,1,1,0,0,6,4,0.2,-1
+2022,Chicago Bulls,Alex Caruso,38,34,1/4/2023,28-310,CHI,BRK,W (+9),0,2:41,1,1,1,0,0,,0,0,,0,0,0,1,0,0,1,0,2,1.4,1
+2022,Chicago Bulls,Alex Caruso,39,,1/6/2023,28-312,CHI,PHI,W (+14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,40,,1/7/2023,28-313,CHI,UTA,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,41,35,1/9/2023,28-315,CHI,BOS,L (-8),0,19:49,2,5,0.4,2,3,0.667,0,0,,0,2,2,4,0,1,2,3,6,4.2,0
+2022,Chicago Bulls,Alex Caruso,42,36,1/11/2023,28-317,CHI,WAS,L (-3),1,27:43:00,3,11,0.273,0,2,0,0,0,,2,2,4,2,1,1,1,3,6,2.4,-16
+2022,Chicago Bulls,Alex Caruso,43,37,1/13/2023,28-319,CHI,OKC,L (-14),1,32:51:00,4,6,0.667,2,4,0.5,1,2,0.5,2,2,4,5,5,1,2,3,11,16,-6
+2022,Chicago Bulls,Alex Caruso,44,38,1/15/2023,28-321,CHI,GSW,W (+14),1,30:54:00,4,10,0.4,2,6,0.333,2,2,1,0,9,9,7,2,0,1,3,12,14,24
+2022,Chicago Bulls,Alex Caruso,45,39,1/19/2023,28-325,CHI,DET,W (+18),0,22:25,1,4,0.25,0,1,0,0,0,,1,2,3,3,4,3,0,2,2,8.3,9
+2022,Chicago Bulls,Alex Caruso,46,40,1/23/2023,28-329,CHI,ATL,W (+11),0,28:01:00,5,9,0.556,2,4,0.5,0,0,,2,2,4,2,3,1,0,1,12,14.4,10
+2022,Chicago Bulls,Alex Caruso,47,41,1/24/2023,28-330,CHI,IND,L (-6),0,28:24:00,0,3,0,0,1,0,4,4,1,2,5,7,1,1,0,2,5,4,2.5,-13
+2022,Chicago Bulls,Alex Caruso,48,42,1/26/2023,28-332,CHI,CHO,L (-15),0,24:07:00,1,2,0.5,0,1,0,0,0,,2,1,3,0,3,0,2,3,2,2.5,9
+2022,Chicago Bulls,Alex Caruso,49,43,1/28/2023,28-334,CHI,ORL,W (+19),0,20:48,3,3,1,0,0,,1,2,0.5,0,2,2,3,2,0,1,4,7,7.8,19
+2022,Chicago Bulls,Alex Caruso,50,44,1/31/2023,28-337,CHI,LAC,L (-5),0,22:45,3,3,1,2,2,1,2,2,1,0,2,2,3,2,2,1,2,10,13.4,5
+2022,Chicago Bulls,Alex Caruso,51,45,2/2/2023,28-339,CHI,CHO,W (+16),0,7:05,2,3,0.667,1,2,0.5,2,2,1,1,2,3,1,1,0,1,0,7,7.7,3
+2022,Chicago Bulls,Alex Caruso,52,,2/4/2023,28-341,CHI,POR,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,53,,2/6/2023,28-343,CHI,SAS,W (+24),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,54,46,2/7/2023,28-344,CHI,MEM,L (-15),1,26:24:00,1,5,0.2,0,3,0,0,0,,2,4,6,5,1,0,3,4,2,1.4,-8
+2022,Chicago Bulls,Alex Caruso,55,47,2/9/2023,28-346,CHI,BRK,L (-11),0,29:32:00,1,3,0.333,0,2,0,4,4,1,0,7,7,2,1,0,1,1,6,7.4,9
+2022,Chicago Bulls,Alex Caruso,56,48,2/11/2023,28-348,CHI,CLE,L (-8),0,21:08,0,0,,0,0,,0,0,,0,4,4,1,0,0,1,3,0,-0.3,-12
+2022,Chicago Bulls,Alex Caruso,57,,2/13/2023,28-350,CHI,ORL,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,58,49,2/15/2023,28-352,CHI,IND,L (-4),1,29:49:00,2,5,0.4,1,3,0.333,0,0,,1,1,2,3,3,1,1,5,5,6.1,4
+2022,Chicago Bulls,Alex Caruso,59,,2/16/2023,28-353,CHI,MIL,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,60,50,2/24/2023,28-361,CHI,BRK,W (+44),1,19:27,2,3,0.667,0,1,0,0,0,,0,2,2,1,0,1,0,3,4,3.5,27
+2022,Chicago Bulls,Alex Caruso,61,51,2/26/2023,28-363,CHI,WAS,W (+20),1,25:53:00,2,6,0.333,2,6,0.333,0,0,,1,3,4,3,2,0,0,3,6,7.1,11
+2022,Chicago Bulls,Alex Caruso,62,52,2/28/2023,29-000,CHI,TOR,L (-6),1,26:16:00,2,5,0.4,1,4,0.25,1,1,1,1,3,4,6,1,1,3,3,6,6.6,1
+2022,Chicago Bulls,Alex Caruso,63,53,3/1/2023,29-001,CHI,DET,W (+2),1,20:08,2,5,0.4,2,4,0.5,2,2,1,0,1,1,2,0,0,3,4,8,2.4,6
+2022,Chicago Bulls,Alex Caruso,64,54,3/3/2023,29-003,CHI,PHO,L (-21),0,19:26,1,4,0.25,1,4,0.25,2,2,1,0,5,5,2,0,0,0,0,5,5.5,5
+2022,Chicago Bulls,Alex Caruso,65,55,3/5/2023,29-005,CHI,IND,L (-3),1,26:45:00,3,4,0.75,0,1,0,4,4,1,1,1,2,0,2,0,0,2,10,10.6,1
+2022,Chicago Bulls,Alex Caruso,66,56,3/8/2023,29-008,CHI,DEN,W (+21),1,17:38,3,8,0.375,0,2,0,0,0,,1,2,3,2,1,0,2,2,6,2.5,-2
+2022,Chicago Bulls,Alex Caruso,67,57,3/11/2023,29-011,CHI,HOU,W (+8),1,28:37:00,2,5,0.4,0,2,0,1,2,0.5,2,0,2,0,3,2,1,2,5,5.9,10
+2022,Chicago Bulls,Alex Caruso,68,,3/15/2023,29-015,CHI,SAC,L (-3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,69,58,3/17/2023,29-017,CHI,MIN,W (+8),1,32:17:00,3,5,0.6,1,2,0.5,0,0,,0,0,0,3,0,1,0,3,7,6.3,-2
+2022,Chicago Bulls,Alex Caruso,70,59,3/18/2023,29-018,CHI,MIA,W (+14),1,9:59,2,3,0.667,1,2,0.5,0,0,,0,0,0,2,1,1,0,0,5,6.8,-1
+2022,Chicago Bulls,Alex Caruso,71,,3/20/2023,29-020,CHI,PHI,W (+4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,72,,3/22/2023,29-022,CHI,PHI,L (-25),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,73,60,3/24/2023,29-024,CHI,POR,W (+28),1,16:24,2,2,1,1,1,1,1,2,0.5,0,0,0,1,0,0,0,0,6,5.7,2
+2022,Chicago Bulls,Alex Caruso,74,61,3/26/2023,29-026,CHI,LAL,W (+10),1,25:52:00,2,5,0.4,1,3,0.333,2,2,1,2,3,5,1,1,0,1,3,7,6.1,-4
+2022,Chicago Bulls,Alex Caruso,75,,3/27/2023,29-027,CHI,LAC,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,76,62,3/29/2023,29-029,CHI,LAL,L (-11),1,18:52,2,4,0.5,1,3,0.333,0,0,,1,1,2,3,1,0,0,1,5,6.7,-5
+2022,Chicago Bulls,Alex Caruso,77,63,3/31/2023,29-031,CHI,CHO,W (+30),1,20:37,4,7,0.571,2,5,0.4,0,0,,1,3,4,3,1,2,0,3,10,11.6,16
+2022,Chicago Bulls,Alex Caruso,78,64,4/2/2023,29-033,CHI,MEM,W (+21),1,24:05:00,2,3,0.667,1,2,0.5,0,0,,0,1,1,2,3,2,0,2,5,9,20
+2022,Chicago Bulls,Alex Caruso,79,65,4/4/2023,29-035,CHI,ATL,L (-18),1,19:13,0,2,0,0,1,0,0,0,,1,4,5,1,0,1,1,3,0,-0.3,-12
+2022,Chicago Bulls,Alex Caruso,80,,4/5/2023,29-036,CHI,MIL,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Chicago Bulls,Alex Caruso,81,66,4/7/2023,29-038,CHI,DAL,W (+3),1,17:53,3,4,0.75,1,1,1,0,0,,1,0,1,1,0,1,2,2,7,4.7,-2
+2022,Chicago Bulls,Alex Caruso,82,67,4/9/2023,29-040,CHI,DET,W (+22),1,15:12,1,3,0.333,0,2,0,0,0,,0,1,1,2,0,2,0,1,2,3,10
+2022,Los Angeles Lakers,Anthony Davis,1,1,10/18/2022,29-221,LAL,GSW,L (-14),1,35:36:00,10,22,0.455,0,3,0,7,9,0.778,0,6,6,0,4,1,3,2,27,17.5,-21
+2022,Los Angeles Lakers,Anthony Davis,2,2,10/20/2022,29-223,LAL,LAC,L (-6),1,31:56:00,9,16,0.563,2,4,0.5,5,7,0.714,2,6,8,0,2,0,2,2,25,19,5
+2022,Los Angeles Lakers,Anthony Davis,3,3,10/23/2022,29-226,LAL,POR,L (-2),1,36:16:00,9,17,0.529,0,3,0,4,4,1,5,5,10,3,2,6,1,5,22,24,3
+2022,Los Angeles Lakers,Anthony Davis,4,4,10/26/2022,29-229,LAL,DEN,L (-11),1,36:26:00,11,19,0.579,0,1,0,0,1,0,1,13,14,5,3,2,0,1,22,24.8,-22
+2022,Los Angeles Lakers,Anthony Davis,5,,10/28/2022,29-231,LAL,MIN,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+2022,Los Angeles Lakers,Anthony Davis,6,5,10/30/2022,29-233,LAL,DEN,W (+11),1,36:48:00,10,18,0.556,0,0,,3,4,0.75,6,9,15,2,1,1,2,3,23,20.8,15
+2022,Los Angeles Lakers,Anthony Davis,7,6,11/2/2022,29-236,LAL,NOP,W (+3),1,37:12:00,8,17,0.471,0,0,,4,4,1,5,11,16,4,1,4,1,3,20,22.5,9
+2022,Los Angeles Lakers,Anthony Davis,8,7,11/4/2022,29-238,LAL,UTA,L (-14),1,34:51:00,9,17,0.529,1,2,0.5,3,3,1,3,5,8,2,0,2,1,3,22,17.9,-8
+2022,Los Angeles Lakers,Anthony Davis,9,8,11/6/2022,29-240,LAL,CLE,L (-14),1,32:45:00,7,12,0.583,0,0,,5,9,0.556,3,9,12,4,0,1,1,4,19,17.5,-7
+2022,Los Angeles Lakers,Anthony Davis,10,9,11/7/2022,29-241,LAL,UTA,L (-23),1,29:12:00,11,18,0.611,1,1,1,6,7,0.857,1,3,4,2,1,1,2,2,29,22.3,-9
+2022,Los Angeles Lakers,Anthony Davis,11,10,11/9/2022,29-243,LAL,LAC,L (-13),1,35:21:00,9,16,0.563,0,1,0,3,4,0.75,1,8,9,3,0,1,3,5,21,13.9,-10
+2022,Los Angeles Lakers,Anthony Davis,12,11,11/11/2022,29-245,LAL,SAC,L (-6),1,34:11:00,8,17,0.471,0,1,0,8,11,0.727,6,8,14,3,2,3,2,2,24,24.1,-7
+2022,Los Angeles Lakers,Anthony Davis,13,12,11/13/2022,29-247,LAL,BRK,W (+13),1,33:38:00,15,25,0.6,0,0,,7,7,1,10,8,18,2,0,0,1,5,37,33.3,15
+2022,Los Angeles Lakers,Anthony Davis,14,13,11/18/2022,29-252,LAL,DET,W (+7),1,34:02:00,10,16,0.625,0,1,0,18,21,0.857,2,14,16,2,1,4,4,3,38,35.2,4
+2022,Los Angeles Lakers,Anthony Davis,15,14,11/20/2022,29-254,LAL,SAS,W (+31),1,27:46:00,12,19,0.632,0,2,0,6,6,1,3,15,18,2,3,1,2,1,30,30.8,34
+2022,Los Angeles Lakers,Anthony Davis,16,15,11/22/2022,29-256,LAL,PHO,L (-10),1,38:23:00,11,17,0.647,0,0,,15,16,0.938,3,18,21,2,5,5,6,2,37,39.7,-3
+2022,Los Angeles Lakers,Anthony Davis,17,16,11/25/2022,29-259,LAL,SAS,W (+11),1,35:04:00,10,13,0.769,0,0,,5,7,0.714,4,11,15,4,1,3,3,4,25,26.5,16
+2022,Los Angeles Lakers,Anthony Davis,18,,11/26/2022,29-260,LAL,SAS,W (+5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,19,17,11/28/2022,29-262,LAL,IND,L (-1),1,36:30:00,9,15,0.6,0,0,,7,10,0.7,3,10,13,6,0,4,2,4,25,25.4,-1
+2022,Los Angeles Lakers,Anthony Davis,20,18,11/30/2022,29-264,LAL,POR,W (+19),1,29:08:00,9,17,0.529,1,2,0.5,8,9,0.889,5,7,12,1,1,3,2,3,27,24.5,8
+2022,Los Angeles Lakers,Anthony Davis,21,19,12/2/2022,29-266,LAL,MIL,W (+4),1,39:37:00,18,27,0.667,2,3,0.667,6,7,0.857,2,8,10,4,0,3,0,2,44,39.8,5
+2022,Los Angeles Lakers,Anthony Davis,22,20,12/4/2022,29-268,LAL,WAS,W (+11),1,37:32:00,22,30,0.733,2,3,0.667,9,9,1,3,14,17,1,0,3,2,1,55,49.5,17
+2022,Los Angeles Lakers,Anthony Davis,23,21,12/6/2022,29-270,LAL,CLE,L (-14),1,8:07,0,0,,0,0,,1,3,0.333,1,2,3,2,0,0,0,0,1,2.9,-6
+2022,Los Angeles Lakers,Anthony Davis,24,,12/7/2022,29-271,LAL,TOR,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,25,22,12/9/2022,29-273,LAL,PHI,L (-11),1,36:10:00,9,13,0.692,0,1,0,13,14,0.929,2,10,12,0,2,2,3,5,31,27.9,16
+2022,Los Angeles Lakers,Anthony Davis,26,23,12/11/2022,29-275,LAL,DET,W (+7),1,35:44:00,12,18,0.667,0,1,0,10,12,0.833,3,12,15,7,2,1,1,3,34,36.5,7
+2022,Los Angeles Lakers,Anthony Davis,27,24,12/13/2022,29-277,LAL,BOS,L (-4),1,46:01:00,13,24,0.542,0,2,0,11,15,0.733,4,8,12,3,1,1,1,1,37,31.4,-8
+2022,Los Angeles Lakers,Anthony Davis,28,25,12/16/2022,29-280,LAL,DEN,W (+18),1,17:27,4,6,0.667,0,0,,2,2,1,0,4,4,2,1,1,2,2,10,8.9,-4
+2022,Los Angeles Lakers,Anthony Davis,29,,12/18/2022,29-282,LAL,WAS,W (+2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,30,,12/19/2022,29-283,LAL,PHO,L (-26),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,31,,12/21/2022,29-285,LAL,SAC,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,32,,12/23/2022,29-287,LAL,CHO,L (-4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,33,,12/25/2022,29-289,LAL,DAL,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,34,,12/27/2022,29-291,LAL,ORL,W (+19),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,35,,12/28/2022,29-292,LAL,MIA,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,36,,12/30/2022,29-294,LAL,ATL,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,37,,1/2/2023,29-297,LAL,CHO,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,38,,1/4/2023,29-299,LAL,MIA,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,39,,1/6/2023,29-301,LAL,ATL,W (+16),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,40,,1/7/2023,29-302,LAL,SAC,W (+2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,41,,1/9/2023,29-304,LAL,DEN,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,42,,1/12/2023,29-307,LAL,DAL,L (-4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,43,,1/15/2023,29-310,LAL,PHI,L (-1),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,44,,1/16/2023,29-311,LAL,HOU,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,45,,1/18/2023,29-313,LAL,SAC,L (-5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,46,,1/20/2023,29-315,LAL,MEM,W (+1),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,47,,1/22/2023,29-317,LAL,POR,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,48,,1/24/2023,29-319,LAL,LAC,L (-18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,49,26,1/25/2023,29-320,LAL,SAS,W (+9),0,26:12:00,7,15,0.467,1,3,0.333,6,7,0.857,5,7,12,1,1,4,3,2,21,19.2,8
+2022,Los Angeles Lakers,Anthony Davis,50,27,1/28/2023,29-323,LAL,BOS,L (-4),0,33:53:00,6,15,0.4,1,3,0.333,3,4,0.75,5,5,10,4,0,0,2,4,16,11.7,-16
+2022,Los Angeles Lakers,Anthony Davis,51,,1/30/2023,29-325,LAL,BRK,L (-17),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,52,28,1/31/2023,29-326,LAL,NYK,W (+6),1,36:53:00,9,16,0.563,0,1,0,9,11,0.818,2,7,9,1,2,0,5,3,27,18.6,16
+2022,Los Angeles Lakers,Anthony Davis,53,29,2/2/2023,29-328,LAL,IND,W (+1),1,34:32:00,13,27,0.481,0,3,0,5,5,1,5,9,14,2,1,2,2,0,31,25.3,-6
+2022,Los Angeles Lakers,Anthony Davis,54,30,2/4/2023,29-330,LAL,NOP,L (-5),1,38:26:00,13,25,0.52,2,5,0.4,6,7,0.857,4,10,14,3,1,2,2,3,34,28.4,0
+2022,Los Angeles Lakers,Anthony Davis,55,31,2/7/2023,29-333,LAL,OKC,L (-3),1,30:36:00,6,9,0.667,0,0,,1,2,0.5,3,5,8,2,2,1,2,4,13,12.8,-4
+2022,Los Angeles Lakers,Anthony Davis,56,32,2/9/2023,29-335,LAL,MIL,L (-9),1,35:00:00,9,22,0.409,0,2,0,5,6,0.833,5,11,16,2,0,0,5,5,23,12,-7
+2022,Los Angeles Lakers,Anthony Davis,57,33,2/11/2023,29-337,LAL,GSW,W (+6),1,35:44:00,5,19,0.263,0,1,0,3,4,0.75,2,14,16,1,0,3,4,2,13,4.9,8
+2022,Los Angeles Lakers,Anthony Davis,58,34,2/13/2023,29-339,LAL,POR,L (-12),1,31:04:00,8,18,0.444,0,2,0,3,3,1,3,17,20,1,0,3,2,3,19,16.4,-10
+2022,Los Angeles Lakers,Anthony Davis,59,35,2/15/2023,29-341,LAL,NOP,W (+18),1,30:10:00,13,17,0.765,0,1,0,2,5,0.4,2,8,10,5,1,2,0,2,28,29,18
+2022,Los Angeles Lakers,Anthony Davis,60,36,2/23/2023,29-349,LAL,GSW,W (+13),1,25:31:00,3,5,0.6,0,0,,6,8,0.75,3,9,12,1,0,2,1,2,12,14,5
+2022,Los Angeles Lakers,Anthony Davis,61,37,2/26/2023,29-352,LAL,DAL,W (+3),1,36:38:00,12,20,0.6,0,2,0,6,9,0.667,4,11,15,4,1,3,1,2,30,29.8,16
+2022,Los Angeles Lakers,Anthony Davis,62,38,2/28/2023,29-354,LAL,MEM,L (-12),1,35:32:00,9,19,0.474,0,1,0,10,13,0.769,6,13,19,0,0,5,5,3,28,22.5,-9
+2022,Los Angeles Lakers,Anthony Davis,63,,3/1/2023,29-355,LAL,OKC,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,64,39,3/3/2023,29-357,LAL,MIN,L (-8),1,32:23:00,12,22,0.545,2,4,0.5,12,14,0.857,1,4,5,2,1,2,6,3,38,25.1,-8
+2022,Los Angeles Lakers,Anthony Davis,65,40,3/5/2023,29-359,LAL,GSW,W (+8),1,37:35:00,14,25,0.56,1,3,0.333,10,13,0.769,3,5,8,6,0,2,2,2,39,32.3,17
+2022,Los Angeles Lakers,Anthony Davis,66,41,3/7/2023,29-361,LAL,MEM,W (+9),1,35:32:00,11,17,0.647,1,2,0.5,7,9,0.778,4,18,22,3,0,2,7,2,30,25.6,24
+2022,Los Angeles Lakers,Anthony Davis,67,42,3/10/2023,29-364,LAL,TOR,W (+10),1,32:34:00,4,7,0.571,0,0,,0,0,,3,6,9,3,0,4,1,3,8,11.3,-11
+2022,Los Angeles Lakers,Anthony Davis,68,43,3/12/2023,30-001,LAL,NYK,L (-4),1,37:14:00,8,18,0.444,0,1,0,1,5,0.2,6,10,16,4,2,1,1,1,17,17.3,9
+2022,Los Angeles Lakers,Anthony Davis,69,44,3/14/2023,30-003,LAL,NOP,W (+15),1,33:19:00,11,18,0.611,1,2,0.5,12,13,0.923,6,11,17,1,0,0,3,1,35,31.2,18
+2022,Los Angeles Lakers,Anthony Davis,70,,3/15/2023,30-004,LAL,HOU,L (-4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,Anthony Davis,71,45,3/17/2023,30-006,LAL,DAL,L (-1),1,36:43:00,9,14,0.643,0,1,0,8,11,0.727,3,7,10,3,0,1,2,5,26,21.6,1
+2022,Los Angeles Lakers,Anthony Davis,72,46,3/19/2023,30-008,LAL,ORL,W (+6),1,34:21:00,6,15,0.4,0,0,,3,6,0.5,2,9,11,1,2,4,5,4,15,8.7,-3
+2022,Los Angeles Lakers,Anthony Davis,73,47,3/22/2023,30-011,LAL,PHO,W (+11),1,38:17:00,10,18,0.556,0,0,,7,10,0.7,1,8,9,5,1,0,1,4,27,22.2,13
+2022,Los Angeles Lakers,Anthony Davis,74,48,3/24/2023,30-013,LAL,OKC,W (+5),1,36:29:00,15,21,0.714,0,1,0,7,11,0.636,5,10,15,1,1,0,1,1,37,33.5,8
+2022,Los Angeles Lakers,Anthony Davis,75,49,3/26/2023,30-015,LAL,CHI,L (-10),1,35:53:00,6,8,0.75,0,0,,3,6,0.5,2,7,9,5,1,1,2,5,15,15.3,7
+2022,Los Angeles Lakers,Anthony Davis,76,50,3/29/2023,30-018,LAL,CHI,W (+11),1,38:38:00,13,20,0.65,1,1,1,11,14,0.786,5,4,9,4,2,2,0,1,38,38.5,16
+2022,Los Angeles Lakers,Anthony Davis,77,51,3/31/2023,30-020,LAL,MIN,W (+12),1,36:51:00,15,26,0.577,0,2,0,8,10,0.8,8,9,17,0,1,2,3,3,38,31.5,
+2022,Los Angeles Lakers,Anthony Davis,78,52,4/2/2023,30-022,LAL,HOU,W (+25),1,30:27:00,15,20,0.75,0,0,,10,12,0.833,4,5,9,1,0,2,0,0,40,37.6,2
+2022,Los Angeles Lakers,Anthony Davis,79,53,4/4/2023,30-024,LAL,UTA,W (+2),1,42:05:00,7,16,0.438,0,0,,7,12,0.583,4,10,14,6,2,2,1,3,21,21.8,4
+2022,Los Angeles Lakers,Anthony Davis,80,54,4/5/2023,30-025,LAL,LAC,L (-7),1,32:19:00,7,14,0.5,0,1,0,3,4,0.75,4,7,11,3,1,2,1,2,17,17.2,9
+2022,Los Angeles Lakers,Anthony Davis,81,55,4/7/2023,30-027,LAL,PHO,W (+14),1,33:58:00,4,12,0.333,0,1,0,6,7,0.857,4,17,21,4,0,3,1,1,14,18.2,17
+2022,Los Angeles Lakers,Anthony Davis,82,56,4/9/2023,30-029,LAL,UTA,W (+11),1,33:57:00,7,15,0.467,0,0,,2,2,1,3,10,13,3,3,4,4,2,16,16.5,10
+2022,Los Angeles Lakers,LeBron James,1,1,10/18/2022,37-292,LAL,GSW,L (-14),1,35:12:00,12,26,0.462,3,10,0.3,4,4,1,5,10,15,8,0,0,5,2,31,23.9,-10
+2022,Los Angeles Lakers,LeBron James,2,2,10/20/2022,37-294,LAL,LAC,L (-6),1,36:40:00,7,17,0.412,2,8,0.25,4,6,0.667,2,8,10,6,1,2,2,3,20,17.3,-1
+2022,Los Angeles Lakers,LeBron James,3,3,10/23/2022,37-297,LAL,POR,L (-2),1,37:43:00,12,22,0.545,2,9,0.222,5,7,0.714,1,7,8,8,2,2,4,3,31,26.2,2
+2022,Los Angeles Lakers,LeBron James,4,4,10/26/2022,37-300,LAL,DEN,L (-11),1,35:18:00,8,21,0.381,2,8,0.25,1,2,0.5,2,5,7,9,1,0,8,1,19,8.9,-7
+2022,Los Angeles Lakers,LeBron James,5,5,10/28/2022,37-302,LAL,MIN,L (-9),1,37:27:00,10,24,0.417,1,6,0.167,7,8,0.875,3,4,7,5,4,0,3,2,28,21.8,-13
+2022,Los Angeles Lakers,LeBron James,6,6,10/30/2022,37-304,LAL,DEN,W (+11),1,34:42:00,10,22,0.455,2,5,0.4,4,5,0.8,0,6,6,8,1,0,3,1,26,19.2,-1
+2022,Los Angeles Lakers,LeBron James,7,7,11/2/2022,37-307,LAL,NOP,W (+3),1,39:43:00,9,23,0.391,0,7,0,2,4,0.5,0,10,10,8,0,2,2,3,20,13.5,5
+2022,Los Angeles Lakers,LeBron James,8,8,11/4/2022,37-309,LAL,UTA,L (-14),1,34:09:00,7,19,0.368,0,5,0,3,5,0.6,2,8,10,8,0,1,3,3,17,11.6,-11
+2022,Los Angeles Lakers,LeBron James,9,9,11/6/2022,37-311,LAL,CLE,L (-14),1,33:49:00,13,23,0.565,1,4,0.25,0,3,0,2,5,7,4,0,0,1,0,27,19.6,-8
+2022,Los Angeles Lakers,LeBron James,10,,11/7/2022,37-312,LAL,UTA,L (-23),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,11,10,11/9/2022,37-314,LAL,LAC,L (-13),1,32:21:00,12,22,0.545,4,9,0.444,2,4,0.5,1,7,8,5,2,0,3,2,30,23.1,-17
+2022,Los Angeles Lakers,LeBron James,12,,11/11/2022,37-316,LAL,SAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,13,,11/13/2022,37-318,LAL,BRK,W (+13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,14,,11/18/2022,37-323,LAL,DET,W (+7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+2022,Los Angeles Lakers,LeBron James,15,,11/20/2022,37-325,LAL,SAS,W (+31),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,16,,11/22/2022,37-327,LAL,PHO,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,17,11,11/25/2022,37-330,LAL,SAS,W (+11),1,33:15:00,8,17,0.471,1,4,0.25,4,4,1,0,8,8,5,3,1,9,2,21,12.1,16
+2022,Los Angeles Lakers,LeBron James,18,12,11/26/2022,37-331,LAL,SAS,W (+5),1,35:28:00,11,21,0.524,7,12,0.583,10,10,1,0,11,11,3,1,1,4,3,39,30.6,-3
+2022,Los Angeles Lakers,LeBron James,19,13,11/28/2022,37-333,LAL,IND,L (-1),1,36:10:00,8,22,0.364,3,10,0.3,2,3,0.667,1,6,7,3,1,0,1,1,21,12.6,-7
+2022,Los Angeles Lakers,LeBron James,20,14,11/30/2022,37-335,LAL,POR,W (+19),1,32:30:00,12,18,0.667,6,8,0.75,1,3,0.333,2,5,7,8,0,1,2,1,31,29.2,8
+2022,Los Angeles Lakers,LeBron James,21,15,12/2/2022,37-337,LAL,MIL,W (+4),1,37:11:00,12,27,0.444,3,6,0.5,1,2,0.5,1,7,8,11,2,0,0,2,28,25.2,6
+2022,Los Angeles Lakers,LeBron James,22,16,12/4/2022,37-339,LAL,WAS,W (+11),1,34:26:00,12,26,0.462,2,7,0.286,3,4,0.75,1,7,8,6,1,0,5,3,29,17,13
+2022,Los Angeles Lakers,LeBron James,23,17,12/6/2022,37-341,LAL,CLE,L (-14),1,35:37:00,8,17,0.471,2,6,0.333,3,4,0.75,4,13,17,4,1,1,3,0,21,20.1,-14
+2022,Los Angeles Lakers,LeBron James,24,,12/7/2022,37-342,LAL,TOR,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,25,18,12/9/2022,37-344,LAL,PHI,L (-11),1,43:50:00,9,22,0.409,1,8,0.125,4,8,0.5,1,3,4,6,2,0,3,3,23,13.2,-10
+2022,Los Angeles Lakers,LeBron James,26,19,12/11/2022,37-346,LAL,DET,W (+7),1,36:52:00,14,24,0.583,2,6,0.333,5,5,1,1,4,5,5,1,0,1,1,35,28.8,18
+2022,Los Angeles Lakers,LeBron James,27,20,12/13/2022,37-348,LAL,BOS,L (-4),1,42:47:00,14,25,0.56,3,11,0.273,2,4,0.5,0,9,9,9,2,1,4,4,33,26.4,10
+2022,Los Angeles Lakers,LeBron James,28,21,12/16/2022,37-351,LAL,DEN,W (+18),1,35:56:00,13,21,0.619,1,4,0.25,3,4,0.75,1,8,9,4,2,0,2,2,30,25.2,26
+2022,Los Angeles Lakers,LeBron James,29,22,12/18/2022,37-353,LAL,WAS,W (+2),1,36:33:00,13,24,0.542,1,4,0.25,6,8,0.75,1,6,7,9,0,1,0,0,33,30.1,10
+2022,Los Angeles Lakers,LeBron James,30,,12/19/2022,37-354,LAL,PHO,L (-26),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,31,23,12/21/2022,37-356,LAL,SAC,L (-14),1,34:00:00,11,21,0.524,0,4,0,9,10,0.9,0,6,6,11,0,2,2,0,31,29.2,-4
+2022,Los Angeles Lakers,LeBron James,32,24,12/23/2022,37-358,LAL,CHO,L (-4),1,33:56:00,15,23,0.652,4,8,0.5,0,2,0,0,2,2,8,1,0,3,2,34,26.5,-6
+2022,Los Angeles Lakers,LeBron James,33,25,12/25/2022,37-360,LAL,DAL,L (-9),1,34:20:00,13,23,0.565,0,4,0,12,12,1,0,6,6,5,0,0,2,2,38,29.6,2
+2022,Los Angeles Lakers,LeBron James,34,26,12/27/2022,37-362,LAL,ORL,W (+19),1,31:10:00,12,24,0.5,0,7,0,4,5,0.8,2,5,7,5,1,1,4,1,28,19.3,8
+2022,Los Angeles Lakers,LeBron James,35,27,12/28/2022,37-363,LAL,MIA,L (-14),1,33:30:00,10,18,0.556,2,5,0.4,5,5,1,0,9,9,6,0,0,6,4,27,17.7,-4
+2022,Los Angeles Lakers,LeBron James,36,28,12/30/2022,38-000,LAL,ATL,W (+9),1,39:39:00,18,27,0.667,4,6,0.667,7,9,0.778,2,8,10,9,0,1,5,0,47,40.3,12
+2022,Los Angeles Lakers,LeBron James,37,29,1/2/2023,38-003,LAL,CHO,W (+6),1,39:33:00,16,26,0.615,0,5,0,11,15,0.733,0,11,11,6,1,0,3,1,43,34.7,9
+2022,Los Angeles Lakers,LeBron James,38,,1/4/2023,38-005,LAL,MIA,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,39,30,1/6/2023,38-007,LAL,ATL,W (+16),1,32:47:00,10,19,0.526,1,5,0.2,4,6,0.667,0,7,7,10,0,0,5,0,25,19,12
+2022,Los Angeles Lakers,LeBron James,40,31,1/7/2023,38-008,LAL,SAC,W (+2),1,37:43:00,14,28,0.5,1,6,0.167,8,9,0.889,1,7,8,7,1,0,4,2,37,26.5,15
+2022,Los Angeles Lakers,LeBron James,41,,1/9/2023,38-010,LAL,DEN,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,42,32,1/12/2023,38-013,LAL,DAL,L (-4),1,46:45:00,9,28,0.321,0,7,0,6,10,0.6,6,10,16,9,2,0,3,0,24,18.9,-3
+2022,Los Angeles Lakers,LeBron James,43,33,1/15/2023,38-016,LAL,PHI,L (-1),1,35:18:00,15,23,0.652,1,5,0.2,4,5,0.8,0,8,8,10,1,1,3,1,35,32.2,19
+2022,Los Angeles Lakers,LeBron James,44,34,1/16/2023,38-017,LAL,HOU,W (+8),1,35:51:00,16,26,0.615,5,10,0.5,11,12,0.917,1,7,8,9,0,0,0,1,48,44.5,19
+2022,Los Angeles Lakers,LeBron James,45,35,1/18/2023,38-019,LAL,SAC,L (-5),1,36:30:00,11,25,0.44,2,9,0.222,8,9,0.889,0,8,8,9,1,1,1,0,32,27.9,-16
+2022,Los Angeles Lakers,LeBron James,46,36,1/20/2023,38-021,LAL,MEM,W (+1),1,36:32:00,8,21,0.381,1,5,0.2,6,7,0.857,2,7,9,6,2,2,3,4,23,17.6,9
+2022,Los Angeles Lakers,LeBron James,47,37,1/22/2023,38-023,LAL,POR,W (+9),1,35:56:00,14,24,0.583,2,7,0.286,7,10,0.7,0,11,11,4,0,2,4,2,37,27.3,17
+2022,Los Angeles Lakers,LeBron James,48,38,1/24/2023,38-025,LAL,LAC,L (-18),1,32:35:00,16,29,0.552,9,14,0.643,5,5,1,1,7,8,7,2,1,0,0,46,42.5,-14
+2022,Los Angeles Lakers,LeBron James,49,39,1/25/2023,38-026,LAL,SAS,W (+9),1,35:19:00,8,20,0.4,1,6,0.167,3,4,0.75,1,8,9,11,0,0,6,0,20,13.6,2
+2022,Los Angeles Lakers,LeBron James,50,40,1/28/2023,38-029,LAL,BOS,L (-4),1,44:13:00,15,30,0.5,6,12,0.5,5,6,0.833,1,8,9,8,0,0,2,2,41,31.5,1
+2022,Los Angeles Lakers,LeBron James,51,,1/30/2023,38-031,LAL,BRK,L (-17),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,52,41,1/31/2023,38-032,LAL,NYK,W (+6),1,42:56:00,11,25,0.44,2,8,0.25,4,7,0.571,1,9,10,11,1,0,5,2,28,20,22
+2022,Los Angeles Lakers,LeBron James,53,42,2/2/2023,38-034,LAL,IND,W (+1),1,32:58:00,11,19,0.579,2,5,0.4,2,2,1,2,5,7,7,0,0,3,1,26,21.5,-4
+2022,Los Angeles Lakers,LeBron James,54,43,2/4/2023,38-036,LAL,NOP,L (-5),1,39:37:00,10,22,0.455,1,7,0.143,6,9,0.667,0,9,9,6,0,0,2,2,27,18.5,-5
+2022,Los Angeles Lakers,LeBron James,55,44,2/7/2023,38-039,LAL,OKC,L (-3),1,33:57:00,13,20,0.65,4,6,0.667,8,10,0.8,0,7,7,3,3,0,4,3,38,30.4,8
+2022,Los Angeles Lakers,LeBron James,56,,2/9/2023,38-041,LAL,MIL,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+2022,Los Angeles Lakers,LeBron James,57,,2/11/2023,38-043,LAL,GSW,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,58,,2/13/2023,38-045,LAL,POR,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,59,45,2/15/2023,38-047,LAL,NOP,W (+18),1,29:13:00,7,14,0.5,0,5,0,7,10,0.7,0,6,6,6,0,1,4,1,21,15.1,14
+2022,Los Angeles Lakers,LeBron James,60,46,2/23/2023,38-055,LAL,GSW,W (+13),1,26:19:00,5,20,0.25,2,6,0.333,1,2,0.5,3,6,9,8,0,0,2,2,13,7.3,22
+2022,Los Angeles Lakers,LeBron James,61,47,2/26/2023,38-058,LAL,DAL,W (+3),1,36:51:00,10,23,0.435,1,6,0.167,5,7,0.714,3,5,8,3,1,1,3,4,26,15.9,0
+2022,Los Angeles Lakers,LeBron James,62,,2/28/2023,38-060,LAL,MEM,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,63,,3/1/2023,38-061,LAL,OKC,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,64,,3/3/2023,38-063,LAL,MIN,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,65,,3/5/2023,38-065,LAL,GSW,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,66,,3/7/2023,38-067,LAL,MEM,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,67,,3/10/2023,38-070,LAL,TOR,W (+10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,68,,3/12/2023,38-072,LAL,NYK,L (-4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,69,,3/14/2023,38-074,LAL,NOP,W (+15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,70,,3/15/2023,38-075,LAL,HOU,L (-4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,71,,3/17/2023,38-077,LAL,DAL,L (-1),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,72,,3/19/2023,38-079,LAL,ORL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,73,,3/22/2023,38-082,LAL,PHO,W (+11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,74,,3/24/2023,38-084,LAL,OKC,W (+5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,LeBron James,75,48,3/26/2023,38-086,LAL,CHI,L (-10),0,29:32:00,6,11,0.545,0,2,0,7,8,0.875,1,7,8,3,0,0,5,2,19,12.4,4
+2022,Los Angeles Lakers,LeBron James,76,49,3/29/2023,38-089,LAL,CHI,W (+11),1,31:16:00,10,19,0.526,1,3,0.333,4,4,1,3,5,8,4,2,0,4,2,25,19.3,23
+2022,Los Angeles Lakers,LeBron James,77,50,3/31/2023,38-091,LAL,MIN,W (+12),1,32:29:00,7,19,0.368,1,3,0.333,3,4,0.75,1,9,10,6,1,2,3,1,18,13.7,
+2022,Los Angeles Lakers,LeBron James,78,51,4/2/2023,38-093,LAL,HOU,W (+25),1,29:21:00,8,18,0.444,1,7,0.143,1,1,1,2,8,10,11,0,1,1,1,18,19.4,23
+2022,Los Angeles Lakers,LeBron James,79,52,4/4/2023,38-095,LAL,UTA,W (+2),1,38:28:00,14,27,0.519,3,10,0.3,6,6,1,0,5,5,6,1,1,5,2,37,25.3,-7
+2022,Los Angeles Lakers,LeBron James,80,53,4/5/2023,38-096,LAL,LAC,L (-7),1,35:06:00,13,20,0.65,4,6,0.667,3,5,0.6,0,8,8,7,1,1,6,0,33,26.4,-10
+2022,Los Angeles Lakers,LeBron James,81,54,4/7/2023,38-098,LAL,PHO,W (+14),1,29:21:00,6,19,0.316,3,7,0.429,1,2,0.5,0,6,6,6,0,0,5,1,16,5.3,11
+2022,Los Angeles Lakers,LeBron James,82,55,4/9/2023,38-100,LAL,UTA,W (+11),1,33:13:00,13,25,0.52,8,14,0.571,2,2,1,1,5,6,6,1,1,2,0,36,29.8,20
+2022,Los Angeles Lakers,De'Angelo Russell,1,1,10/19/2022,26-238,MIN,OKC,W (+7),1,34:35:00,7,16,0.438,2,6,0.333,4,5,0.8,0,5,5,2,1,1,4,5,20,9.8,-8
+2022,Los Angeles Lakers,De'Angelo Russell,2,2,10/21/2022,26-240,MIN,UTA,L (-6),1,39:26:00,8,17,0.471,3,8,0.375,4,4,1,1,4,5,7,2,1,3,0,23,20.8,-7
+2022,Los Angeles Lakers,De'Angelo Russell,3,3,10/23/2022,26-242,MIN,OKC,W (+10),1,25:48:00,2,5,0.4,0,2,0,2,2,1,1,2,3,6,1,0,3,0,6,6.8,0
+2022,Los Angeles Lakers,De'Angelo Russell,4,4,10/24/2022,26-243,MIN,SAS,L (-9),1,31:23:00,8,16,0.5,3,6,0.5,6,6,1,2,3,5,7,2,1,3,2,25,23.1,-12
+2022,Los Angeles Lakers,De'Angelo Russell,5,5,10/26/2022,26-245,MIN,SAS,W (+12),1,28:59:00,5,10,0.5,1,4,0.25,1,4,0.25,0,2,2,9,0,1,4,1,12,9,0
+2022,Los Angeles Lakers,De'Angelo Russell,6,6,10/28/2022,26-247,MIN,LAL,W (+9),1,30:48:00,4,15,0.267,2,7,0.286,1,2,0.5,0,4,4,7,7,1,2,1,11,13.1,12
+2022,Los Angeles Lakers,De'Angelo Russell,7,7,10/30/2022,26-249,MIN,SAS,L (-9),1,27:50:00,5,17,0.294,0,7,0,0,0,,2,3,5,4,0,1,2,4,10,2.3,0
+2022,Los Angeles Lakers,De'Angelo Russell,8,8,11/1/2022,26-251,MIN,PHO,L (-9),1,22:38,2,8,0.25,1,3,0.333,0,0,,0,4,4,4,0,0,4,3,5,-1,-20
+2022,Los Angeles Lakers,De'Angelo Russell,9,9,11/4/2022,26-254,MIN,MIL,L (-13),1,27:10:00,3,15,0.2,2,8,0.25,1,2,0.5,1,2,3,4,0,0,3,0,9,0.4,-18
+2022,Los Angeles Lakers,De'Angelo Russell,10,10,11/5/2022,26-255,MIN,HOU,W (+12),1,26:38:00,5,9,0.556,1,3,0.333,2,3,0.667,3,3,6,4,2,0,3,4,13,11.5,2
+2022,Los Angeles Lakers,De'Angelo Russell,11,11,11/7/2022,26-257,MIN,NYK,L (-13),1,30:49:00,4,12,0.333,4,10,0.4,2,4,0.5,0,2,2,8,1,2,3,1,14,11.6,1
+2022,Los Angeles Lakers,De'Angelo Russell,12,12,11/9/2022,26-259,MIN,PHO,L (-12),1,33:18:00,6,14,0.429,4,9,0.444,4,4,1,1,1,2,6,0,0,3,2,20,14,-5
+2022,Los Angeles Lakers,De'Angelo Russell,13,13,11/11/2022,26-261,MIN,MEM,L (-11),1,26:33:00,2,8,0.25,0,4,0,0,0,,0,0,0,8,1,0,3,3,4,1.6,-8
+2022,Los Angeles Lakers,De'Angelo Russell,14,14,11/13/2022,26-263,MIN,CLE,W (+5),1,35:09:00,11,13,0.846,4,5,0.8,4,6,0.667,0,2,2,11,1,0,2,2,30,31,19
+2022,Los Angeles Lakers,De'Angelo Russell,15,15,11/16/2022,26-266,MIN,ORL,W (+18),1,32:17:00,5,12,0.417,1,6,0.167,0,0,,0,3,3,6,1,1,1,0,11,10.4,15
+2022,Los Angeles Lakers,De'Angelo Russell,16,16,11/19/2022,26-269,MIN,PHI,W (+3),1,33:33:00,7,13,0.538,3,6,0.5,2,2,1,0,2,2,7,1,0,3,1,19,15.8,-5
+2022,Los Angeles Lakers,De'Angelo Russell,17,17,11/21/2022,26-271,MIN,MIA,W (+4),1,27:59:00,1,5,0.2,0,4,0,1,1,1,0,3,3,5,1,1,0,2,3,5.2,-2
+2022,Los Angeles Lakers,De'Angelo Russell,18,18,11/23/2022,26-273,MIN,IND,W (+14),1,35:45:00,7,10,0.7,1,4,0.25,0,0,,0,3,3,12,3,1,5,2,15,18,21
+2022,Los Angeles Lakers,De'Angelo Russell,19,19,11/25/2022,26-275,MIN,CHO,L (-2),1,35:45:00,8,15,0.533,4,10,0.4,0,0,,2,2,4,10,1,0,3,3,20,18.5,-1
+2022,Los Angeles Lakers,De'Angelo Russell,20,20,11/27/2022,26-277,MIN,GSW,L (-23),1,31:25:00,5,14,0.357,3,6,0.5,2,2,1,1,1,2,6,1,1,0,2,15,13.3,-32
+2022,Los Angeles Lakers,De'Angelo Russell,21,21,11/28/2022,26-278,MIN,WAS,L (-15),1,32:33:00,6,15,0.4,1,7,0.143,4,4,1,0,4,4,5,1,1,3,2,17,11.5,-18
+2022,Los Angeles Lakers,De'Angelo Russell,22,22,11/30/2022,26-280,MIN,MEM,W (+8),1,37:27:00,6,16,0.375,2,7,0.286,1,3,0.333,0,5,5,10,2,0,2,5,15,11.9,18
+2022,Los Angeles Lakers,De'Angelo Russell,23,23,12/3/2022,26-283,MIN,OKC,L (-7),1,36:25:00,10,16,0.625,2,6,0.333,5,5,1,1,2,3,6,1,0,4,2,27,21.5,-16
+2022,Los Angeles Lakers,De'Angelo Russell,24,24,12/7/2022,26-287,MIN,IND,W (+6),1,27:48:00,9,18,0.5,4,9,0.444,6,6,1,0,0,0,4,1,0,3,4,28,18.2,-7
+2022,Los Angeles Lakers,De'Angelo Russell,25,25,12/9/2022,26-289,MIN,UTA,W (+10),1,36:21:00,12,16,0.75,6,9,0.667,0,0,,0,3,3,2,0,1,3,2,30,22.8,4
+2022,Los Angeles Lakers,De'Angelo Russell,26,26,12/10/2022,26-290,MIN,POR,L (-6),1,39:10:00,9,16,0.563,4,6,0.667,2,3,0.667,0,1,1,3,3,0,5,2,24,15.6,6
+2022,Los Angeles Lakers,De'Angelo Russell,27,27,12/12/2022,26-292,MIN,POR,L (-21),1,29:33:00,9,19,0.474,3,10,0.3,2,3,0.667,0,3,3,8,1,1,2,1,23,18.7,-13
+2022,Los Angeles Lakers,De'Angelo Russell,28,,12/14/2022,26-294,MIN,LAC,L (-11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,29,,12/16/2022,26-296,MIN,OKC,W (+2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,30,28,12/18/2022,26-298,MIN,CHI,W (+24),1,36:59:00,10,14,0.714,7,10,0.7,1,1,1,0,2,2,8,0,0,3,3,28,24.2,33
+2022,Los Angeles Lakers,De'Angelo Russell,31,29,12/19/2022,26-299,MIN,DAL,W (+10),1,35:10:00,4,13,0.308,1,6,0.167,0,0,,0,2,2,5,0,0,3,4,9,1,-9
+2022,Los Angeles Lakers,De'Angelo Russell,32,30,12/21/2022,26-301,MIN,DAL,L (-5),1,37:48:00,4,13,0.308,0,7,0,0,0,,0,6,6,8,1,1,2,4,8,6,-5
+2022,Los Angeles Lakers,De'Angelo Russell,33,31,12/23/2022,26-303,MIN,BOS,L (-12),1,38:59:00,6,13,0.462,3,7,0.429,6,7,0.857,3,4,7,10,0,1,2,0,21,22.9,1
+2022,Los Angeles Lakers,De'Angelo Russell,34,32,12/26/2022,26-306,MIN,MIA,L (-3),1,36:14:00,5,11,0.455,3,8,0.375,0,0,,0,3,3,8,0,0,6,2,13,7,-2
+2022,Los Angeles Lakers,De'Angelo Russell,35,33,12/28/2022,26-308,MIN,NOP,L (-1),1,38:22:00,8,17,0.471,2,7,0.286,9,9,1,0,3,3,4,2,0,3,1,27,20.6,5
+2022,Los Angeles Lakers,De'Angelo Russell,36,34,12/30/2022,26-310,MIN,MIL,L (-9),1,35:12:00,3,10,0.3,1,5,0.2,8,8,1,0,5,5,7,1,0,0,3,15,15.4,-11
+2022,Los Angeles Lakers,De'Angelo Russell,37,35,12/31/2022,26-311,MIN,DET,L (-12),1,33:53:00,9,18,0.5,2,7,0.286,5,5,1,0,0,0,5,0,0,2,3,25,16.3,3
+2022,Los Angeles Lakers,De'Angelo Russell,38,,1/2/2023,26-313,MIN,DEN,W (+13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,39,36,1/4/2023,26-315,MIN,POR,W (+7),1,25:32:00,1,6,0.167,1,4,0.25,6,8,0.75,2,1,3,7,1,0,1,1,9,10.6,-3
+2022,Los Angeles Lakers,De'Angelo Russell,40,37,1/6/2023,26-317,MIN,LAC,W (+13),1,32:51:00,7,12,0.583,1,4,0.25,10,10,1,0,5,5,4,2,1,2,4,25,22.8,8
+2022,Los Angeles Lakers,De'Angelo Russell,41,38,1/8/2023,26-319,MIN,HOU,W (+8),1,32:45:00,6,13,0.462,4,7,0.571,6,6,1,0,3,3,6,0,0,4,2,22,15.6,-1
+2022,Los Angeles Lakers,De'Angelo Russell,42,39,1/11/2023,26-322,MIN,DET,L (-17),1,37:04:00,7,14,0.5,5,8,0.625,0,0,,0,2,2,5,1,0,2,5,19,13.1,-3
+2022,Los Angeles Lakers,De'Angelo Russell,43,40,1/13/2023,26-324,MIN,PHO,W (+5),1,34:18:00,6,14,0.429,2,5,0.4,3,4,0.75,1,1,2,4,2,0,2,3,17,11.8,9
+2022,Los Angeles Lakers,De'Angelo Russell,44,41,1/14/2023,26-325,MIN,CLE,W (+8),1,20:33,4,8,0.5,1,3,0.333,0,0,,0,0,0,1,0,0,1,2,9,3.9,-6
+2022,Los Angeles Lakers,De'Angelo Russell,45,42,1/16/2023,26-327,MIN,UTA,L (-1),1,30:58:00,6,11,0.545,3,6,0.5,6,6,1,1,0,1,7,0,1,1,1,21,20.6,3
+2022,Los Angeles Lakers,De'Angelo Russell,46,43,1/18/2023,26-329,MIN,DEN,L (-4),1,31:45:00,4,8,0.5,3,6,0.5,2,2,1,0,0,0,7,0,0,4,1,13,9.5,-4
+2022,Los Angeles Lakers,De'Angelo Russell,47,44,1/19/2023,26-330,MIN,TOR,W (+2),1,33:48:00,8,15,0.533,5,10,0.5,4,4,1,1,0,1,6,2,1,4,2,25,20.5,2
+2022,Los Angeles Lakers,De'Angelo Russell,48,45,1/21/2023,26-332,MIN,HOU,W (+9),1,31:15:00,6,11,0.545,4,6,0.667,7,7,1,0,1,1,8,1,0,2,2,23,21.8,2
+2022,Los Angeles Lakers,De'Angelo Russell,49,46,1/23/2023,26-334,MIN,HOU,L (-5),1,42:25:00,11,23,0.478,6,12,0.5,2,2,1,1,2,3,7,2,0,4,1,30,22.1,-3
+2022,Los Angeles Lakers,De'Angelo Russell,50,47,1/25/2023,26-336,MIN,NOP,W (+9),1,38:49:00,8,17,0.471,3,8,0.375,0,1,0,0,3,3,5,2,0,0,2,19,15.5,12
+2022,Los Angeles Lakers,De'Angelo Russell,51,48,1/27/2023,26-338,MIN,MEM,W (+11),1,37:14:00,7,17,0.412,3,10,0.3,2,2,1,1,7,8,7,3,0,6,1,19,14.2,12
+2022,Los Angeles Lakers,De'Angelo Russell,52,49,1/28/2023,26-339,MIN,SAC,W (+7),1,37:15:00,8,14,0.571,7,9,0.778,2,2,1,1,1,2,6,1,0,3,4,25,20,6
+2022,Los Angeles Lakers,De'Angelo Russell,53,50,1/30/2023,26-341,MIN,SAC,L (-7),1,40:09:00,4,16,0.25,2,10,0.2,0,3,0,0,4,4,7,0,0,2,1,10,2.9,-11
+2022,Los Angeles Lakers,De'Angelo Russell,54,51,2/1/2023,26-343,MIN,GSW,W (+5),1,34:41:00,11,23,0.478,7,17,0.412,0,0,,0,2,2,2,0,0,3,6,29,13.9,3
+2022,Los Angeles Lakers,De'Angelo Russell,55,52,2/3/2023,26-345,MIN,ORL,L (-7),1,37:38:00,9,20,0.45,6,16,0.375,5,5,1,1,9,10,6,2,1,6,1,29,22.5,-9
+2022,Los Angeles Lakers,De'Angelo Russell,56,53,2/5/2023,26-347,MIN,DEN,W (+30),1,29:30:00,6,9,0.667,3,5,0.6,3,4,0.75,0,1,1,10,1,0,2,2,18,19.2,11
+2022,Los Angeles Lakers,De'Angelo Russell,57,54,2/7/2023,26-349,MIN,DEN,L (-34),1,19:49,4,7,0.571,2,4,0.5,0,0,,1,1,2,3,1,0,1,0,10,9.8,-27
+2022,Los Angeles Lakers,De'Angelo Russell,58,,2/8/2023,26-350,MIN,UTA,W (+25),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,59,,2/9/2023,26-351,LAL,MIL,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,60,55,2/11/2023,26-353,LAL,GSW,W (+6),1,35:13:00,6,12,0.5,1,3,0.333,2,3,0.667,1,4,5,6,0,0,3,1,15,11.3,12
+2022,Los Angeles Lakers,De'Angelo Russell,61,56,2/13/2023,26-355,LAL,POR,L (-12),1,27:53:00,7,16,0.438,2,8,0.25,0,0,,1,2,3,4,0,0,1,1,16,10.3,-7
+2022,Los Angeles Lakers,De'Angelo Russell,62,57,2/15/2023,26-357,LAL,NOP,W (+18),1,27:31:00,5,12,0.417,3,5,0.6,8,10,0.8,0,2,2,7,1,0,1,3,21,18.1,18
+2022,Los Angeles Lakers,De'Angelo Russell,63,58,2/23/2023,27-000,LAL,GSW,W (+13),1,8:48,1,3,0.333,0,1,0,0,0,,0,4,4,3,0,0,1,0,2,2.6,4
+2022,Los Angeles Lakers,De'Angelo Russell,64,,2/26/2023,27-003,LAL,DAL,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,65,,2/28/2023,27-005,LAL,MEM,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,66,,3/1/2023,27-006,LAL,OKC,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,67,,3/3/2023,27-008,LAL,MIN,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,68,,3/5/2023,27-010,LAL,GSW,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,69,,3/7/2023,27-012,LAL,MEM,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,70,59,3/10/2023,27-015,LAL,TOR,W (+10),1,31:01:00,10,17,0.588,5,8,0.625,3,3,1,1,4,5,9,1,0,4,0,28,25.3,4
+2022,Los Angeles Lakers,De'Angelo Russell,71,60,3/12/2023,27-017,LAL,NYK,L (-4),1,35:16:00,13,19,0.684,6,11,0.545,1,1,1,2,3,5,8,0,1,3,3,33,29.3,14
+2022,Los Angeles Lakers,De'Angelo Russell,72,61,3/14/2023,27-019,LAL,NOP,W (+15),1,32:47:00,5,15,0.333,3,9,0.333,4,4,1,0,5,5,3,2,2,3,1,17,12.1,26
+2022,Los Angeles Lakers,De'Angelo Russell,73,62,3/15/2023,27-020,LAL,HOU,L (-4),1,33:38:00,5,17,0.294,3,11,0.273,5,6,0.833,0,1,1,7,1,0,3,2,18,10.1,-1
+2022,Los Angeles Lakers,De'Angelo Russell,74,63,3/17/2023,27-022,LAL,DAL,L (-1),1,35:56:00,5,17,0.294,0,6,0,1,2,0.5,0,2,2,11,1,0,0,3,11,8.8,6
+2022,Los Angeles Lakers,De'Angelo Russell,75,64,3/19/2023,27-024,LAL,ORL,W (+6),1,33:14:00,6,12,0.5,4,8,0.5,2,2,1,0,1,1,6,0,2,1,1,18,16.5,-8
+2022,Los Angeles Lakers,De'Angelo Russell,76,65,3/22/2023,27-027,LAL,PHO,W (+11),1,34:05:00,9,13,0.692,3,6,0.5,5,7,0.714,0,1,1,6,1,2,4,0,26,22.6,13
+2022,Los Angeles Lakers,De'Angelo Russell,77,,3/24/2023,27-029,LAL,OKC,W (+5),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+2022,Los Angeles Lakers,De'Angelo Russell,78,,3/26/2023,27-031,LAL,CHI,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+2022,Los Angeles Lakers,De'Angelo Russell,79,66,3/29/2023,27-034,LAL,CHI,W (+11),1,35:47:00,7,12,0.583,2,4,0.5,1,3,0.333,1,3,4,4,1,0,3,1,17,12.6,35
+2022,Los Angeles Lakers,De'Angelo Russell,80,67,3/31/2023,27-036,LAL,MIN,W (+12),1,33:49:00,5,12,0.417,1,4,0.25,1,2,0.5,0,1,1,10,2,0,3,3,12,10.3,
+2022,Los Angeles Lakers,De'Angelo Russell,81,68,4/2/2023,27-038,LAL,HOU,W (+25),1,14:40,2,4,0.5,2,4,0.5,0,1,0,0,3,3,4,0,0,0,0,6,7.3,2
+2022,Los Angeles Lakers,De'Angelo Russell,82,,4/4/2023,27-040,LAL,UTA,W (+2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2022,Los Angeles Lakers,De'Angelo Russell,83,69,4/5/2023,27-041,LAL,LAC,L (-7),1,39:39:00,6,13,0.462,2,6,0.333,1,2,0.5,1,2,3,7,0,0,1,1,15,12.7,8
+2022,Los Angeles Lakers,De'Angelo Russell,84,70,4/7/2023,27-043,LAL,PHO,W (+14),1,33:23:00,9,14,0.643,6,9,0.667,0,0,,0,3,3,3,0,0,6,2,24,14,9
+2022,Los Angeles Lakers,De'Angelo Russell,85,71,4/9/2023,27-045,LAL,UTA,W (+11),1,33:25:00,6,13,0.462,3,8,0.375,2,3,0.667,0,2,2,5,0,1,2,1,17,12.3,10
